@@ -35,8 +35,8 @@ export interface Question {
   questionText: string;
   /** Available answer options (typically 4) */
   options: QuestionOption[];
-  /** ID of the correct option (must match one of options[].id) */
-  correctOption: string;
+  /** ID of the correct option (must match one of options[].id, or null if unverified) */
+  correctOption: string | null;
   /** Explanation shown after answering */
   explanation: string;
   /** Difficulty level */

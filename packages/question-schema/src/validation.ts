@@ -40,13 +40,11 @@ export function validateQuestion(q: unknown, index: number): ValidationError[] {
 
   const id = typeof qObj.id === 'string' ? qObj.id : `[index:${index}]`;
 
-  // Required string fields
   const requiredStrings: Array<[string, string]> = [
     ['id', 'Question ID'],
     ['courseId', 'Course ID'],
     ['courseName', 'Course Name'],
     ['questionText', 'Question Text'],
-    ['correctOption', 'Correct Option'],
     ['explanation', 'Explanation'],
   ];
 
@@ -59,6 +57,23 @@ export function validateQuestion(q: unknown, index: number): ValidationError[] {
         severity: 'error',
       });
     }
+  }
+
+  // correctOption must be string or null
+  if (qObj.correctOption !== null && typeof qObj.correctOption !== 'string') {
+    errors.push({
+      questionId: id,
+      field: 'correctOption',
+      message: 'Correct Option is required and must be a string or null',
+      severity: 'error',
+    });
+  } else if (typeof qObj.correctOption === 'string' && qObj.correctOption.trim() === '') {
+    errors.push({
+      questionId: id,
+      field: 'correctOption',
+      message: 'Correct Option cannot be an empty string',
+      severity: 'error',
+    });
   }
 
   // Options validation

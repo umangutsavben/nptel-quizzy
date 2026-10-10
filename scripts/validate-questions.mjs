@@ -22,11 +22,17 @@ function validateQuestion(q, index) {
     return errors;
   }
 
-  const requiredStrings = ['id', 'courseId', 'courseName', 'questionText', 'correctOption', 'explanation'];
+  const requiredStrings = ['id', 'courseId', 'courseName', 'questionText', 'explanation'];
   for (const field of requiredStrings) {
     if (typeof q[field] !== 'string' || q[field].trim() === '') {
       errors.push({ questionId: id, field, message: `Required field missing or empty`, severity: 'error' });
     }
+  }
+
+  if (q.correctOption !== null && typeof q.correctOption !== 'string') {
+    errors.push({ questionId: id, field: 'correctOption', message: 'Required field missing or empty', severity: 'error' });
+  } else if (typeof q.correctOption === 'string' && q.correctOption.trim() === '') {
+    errors.push({ questionId: id, field: 'correctOption', message: 'Cannot be empty', severity: 'error' });
   }
 
   if (!Array.isArray(q.options) || q.options.length < 2) {

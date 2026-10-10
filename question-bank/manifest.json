@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "lastUpdated": "2026-10-10",
-  "totalQuestions": 96,
+  "totalQuestions": 216,
   "courses": [
     {
       "id": "psy-stress-health",
@@ -80,6 +80,82 @@
         "stress"
       ],
       "questionFile": "courses/psy-stress-health.json"
+    },
+    {
+      "id": "public-speaking",
+      "name": "Public Speaking",
+      "description": "Master your public speaking skills.",
+      "instructor": "SWAYAM",
+      "totalQuestions": 120,
+      "pyqCount": 0,
+      "weeklyQuizCount": 12,
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Assignment 1",
+          "questionCount": 10
+        },
+        {
+          "week": 2,
+          "title": "Assignment 2",
+          "questionCount": 10
+        },
+        {
+          "week": 3,
+          "title": "Assignment 3",
+          "questionCount": 10
+        },
+        {
+          "week": 4,
+          "title": "Assignment 4",
+          "questionCount": 10
+        },
+        {
+          "week": 5,
+          "title": "Assignment 5",
+          "questionCount": 10
+        },
+        {
+          "week": 6,
+          "title": "Assignment 6",
+          "questionCount": 10
+        },
+        {
+          "week": 7,
+          "title": "Assignment 7",
+          "questionCount": 10
+        },
+        {
+          "week": 8,
+          "title": "Assignment 8",
+          "questionCount": 10
+        },
+        {
+          "week": 9,
+          "title": "Assignment 9",
+          "questionCount": 10
+        },
+        {
+          "week": 10,
+          "title": "Assignment 10",
+          "questionCount": 10
+        },
+        {
+          "week": 11,
+          "title": "Assignment 11",
+          "questionCount": 10
+        },
+        {
+          "week": 12,
+          "title": "Assignment 12",
+          "questionCount": 10
+        }
+      ],
+      "tags": [
+        "public-speaking",
+        "communication"
+      ],
+      "questionFile": "courses/public-speaking.json"
     }
   ]
 }

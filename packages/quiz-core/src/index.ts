@@ -74,8 +74,8 @@ export interface QuizSession {
 export interface QuestionResult {
   question: Question;
   selectedOption: string | null;
-  correctOption: string;
-  isCorrect: boolean;
+  correctOption: string | null;
+  isCorrect: boolean | null;
   isAnswered: boolean;
   markedForReview: boolean;
   earnedMarks: number;
@@ -284,24 +284,32 @@ export function submitQuiz(session: QuizSession): QuizResult {
     const state = session.questionStates.get(question.id);
     const selectedOption = state?.selectedOption ?? null;
     const isAnswered = selectedOption !== null;
-    const isCorrect = isAnswered && selectedOption === question.correctOption;
+    const isVerifiable = question.correctOption !== null;
+    const isCorrect = isVerifiable && isAnswered ? selectedOption === question.correctOption : null;
     const marks = question.marks ?? scoring.correctMarks;
     const negMarks = question.negativeMarks ?? scoring.incorrectMarks;
 
-    maxScore += marks;
-
-    let earnedMarks: number;
-    if (!isAnswered) {
-      unanswered++;
-      earnedMarks = scoring.unansweredMarks;
-    } else if (isCorrect) {
-      correct++;
-      earnedMarks = marks;
+    let earnedMarks = 0;
+    
+    if (isVerifiable) {
+      maxScore += marks;
+      if (!isAnswered) {
+        unanswered++;
+        earnedMarks = scoring.unansweredMarks;
+      } else if (isCorrect) {
+        correct++;
+        earnedMarks = marks;
+      } else {
+        incorrect++;
+        earnedMarks = -negMarks; // negative marks are specified as positive values
+      }
+      score += earnedMarks;
     } else {
-      incorrect++;
-      earnedMarks = -negMarks; // negative marks are specified as positive values
+      // Unverified question
+      if (!isAnswered) {
+        unanswered++;
+      }
     }
-    score += earnedMarks;
 
     questionResults.push({
       question,

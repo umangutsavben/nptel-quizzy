@@ -1,0 +1,3094 @@
+[
+  {
+    "id": "PUB-W01-Q001",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "\u201cSpeech is power: speech is to persuade, to convert, to compel\u201d \u2014 this quote belongs to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Abraham Lincoln"
+      },
+      {
+        "id": "b",
+        "text": "Ralph Waldo Emerson"
+      },
+      {
+        "id": "c",
+        "text": "Winston Churchill"
+      },
+      {
+        "id": "d",
+        "text": "Aristotle"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q002",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Aristotle was a famous scholar and author of Rhetoric. He belonged to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rome"
+      },
+      {
+        "id": "b",
+        "text": "Egypt"
+      },
+      {
+        "id": "c",
+        "text": "Greece"
+      },
+      {
+        "id": "d",
+        "text": "America"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q003",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Public Speaking is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A rare skill used only in formal settings"
+      },
+      {
+        "id": "b",
+        "text": "An activity limited to politicians and leaders"
+      },
+      {
+        "id": "c",
+        "text": "Not an everyday routine for most people"
+      },
+      {
+        "id": "d",
+        "text": "A part of everyday personal and professional life"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q004",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Lack of clarity in chosen words is called:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ambiguity"
+      },
+      {
+        "id": "b",
+        "text": "Articulation"
+      },
+      {
+        "id": "c",
+        "text": "Euphemism"
+      },
+      {
+        "id": "d",
+        "text": "Verbosity"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q005",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Deliberative Rhetoric is mainly used to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Judge actions of the past"
+      },
+      {
+        "id": "b",
+        "text": "Praise or blame a person"
+      },
+      {
+        "id": "c",
+        "text": "Discuss and decide future actions"
+      },
+      {
+        "id": "d",
+        "text": "Analyse literary texts"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q006",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Fear of ______ is an interpersonal barrier.",
+    "options": [
+      {
+        "id": "a",
+        "text": "motivation"
+      },
+      {
+        "id": "b",
+        "text": "criticism"
+      },
+      {
+        "id": "c",
+        "text": "decision"
+      },
+      {
+        "id": "d",
+        "text": "deliberation"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q007",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "According to ____________ Dictionary, Public Speaking is \u201cthe act or process of making speeches in public\u201d or \u201cthe art of effective oral communication with the audience\u201d.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Merriam Webster"
+      },
+      {
+        "id": "b",
+        "text": "Oxford"
+      },
+      {
+        "id": "c",
+        "text": "Cambridge"
+      },
+      {
+        "id": "d",
+        "text": "Blacwell"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q008",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "\u201cAs I Walked Out One Evening\u201d is a poem by __________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "John Donne"
+      },
+      {
+        "id": "b",
+        "text": "Staurt Mill"
+      },
+      {
+        "id": "c",
+        "text": "Wilfred Owen"
+      },
+      {
+        "id": "d",
+        "text": "W.H. Auden"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q009",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Hearing is a ________ process.",
+    "options": [
+      {
+        "id": "a",
+        "text": "psychological"
+      },
+      {
+        "id": "b",
+        "text": "physiological"
+      },
+      {
+        "id": "c",
+        "text": "emotional"
+      },
+      {
+        "id": "d",
+        "text": "factual"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W01-Q010",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 1,
+    "topic": "Assignment 1",
+    "questionText": "Ethics is commonly interchanged with ________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "seniority"
+      },
+      {
+        "id": "b",
+        "text": "obesity"
+      },
+      {
+        "id": "c",
+        "text": "rhetoric"
+      },
+      {
+        "id": "d",
+        "text": "morality"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q011",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "Which of the following is NOT listed as a factor to analyse about an audience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Size of the audience"
+      },
+      {
+        "id": "b",
+        "text": "Demographics (age, sex, background)"
+      },
+      {
+        "id": "c",
+        "text": "Audience members' favorite foods"
+      },
+      {
+        "id": "d",
+        "text": "Setting and seating arrangement"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q012",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "The __________audiences are those that seeks entertainment and connection through communication.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Emotive"
+      },
+      {
+        "id": "b",
+        "text": "Directive"
+      },
+      {
+        "id": "c",
+        "text": "Reflective"
+      },
+      {
+        "id": "d",
+        "text": "Supportive"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q013",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "The closing advice \"Know yourself and know your audience\" implies:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only focus on audience preferences and ignore your strengths"
+      },
+      {
+        "id": "b",
+        "text": "Self-awareness combined with audience knowledge leads to more effective communication"
+      },
+      {
+        "id": "c",
+        "text": "If you know yourself, audience analysis is unnecessary"
+      },
+      {
+        "id": "d",
+        "text": "Always prioritize entertainers over informative content"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q014",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "Monroe\u2019s motivated sequence, begins with _________ step.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Call to action"
+      },
+      {
+        "id": "b",
+        "text": "Grab the attention"
+      },
+      {
+        "id": "c",
+        "text": "Provide visual solutions"
+      },
+      {
+        "id": "d",
+        "text": "Define the conclusion"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q015",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "The __________ as a technological tool allows newsreaders to appear spontaneous while actually being aided.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Presentation timer"
+      },
+      {
+        "id": "b",
+        "text": "Teleprompter"
+      },
+      {
+        "id": "c",
+        "text": "Interactive whiteboard"
+      },
+      {
+        "id": "d",
+        "text": "Podcast platform"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q016",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "Relevance theory was first proposed by H. P. Grice.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q017",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "According to Sperber and Wilson\u2019s Relevance Theory, communication is successful when a speaker minimizes the audience's __________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cognitive effect"
+      },
+      {
+        "id": "b",
+        "text": "Feedback loop"
+      },
+      {
+        "id": "c",
+        "text": "Processing effort"
+      },
+      {
+        "id": "d",
+        "text": "Vocal variety"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q018",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "Eloquence is a perennially valued skill that can help individuals survive crises and gain social recognition.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q019",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "Public speaking cannot contribute to professional advancement or leadership opportunities",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W02-Q020",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 2,
+    "topic": "Assignment 2",
+    "questionText": "In public speaking, the \"Chronological Pattern\" organizes the subtopics and main points based on physical space, geographical direction, or physical layout from left to right.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q021",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "The fear of speaking before an audience is commonly known as ___________ .",
+    "options": [
+      {
+        "id": "a",
+        "text": "glossophobia"
+      },
+      {
+        "id": "b",
+        "text": "agoraphobia"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q022",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "According to Vygotsky, ____________ plays a significant role in shaping human understanding of reality.",
+    "options": [
+      {
+        "id": "a",
+        "text": "language"
+      },
+      {
+        "id": "b",
+        "text": "genetics"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q023",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Goleman\u2019s Emotional Competence Framework broadly includes personal and _______________ competencies.",
+    "options": [
+      {
+        "id": "a",
+        "text": "psychological"
+      },
+      {
+        "id": "b",
+        "text": "social"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q024",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Cultures that rely heavily on implicit messages and non-verbal cues are called _____________ cultures.",
+    "options": [
+      {
+        "id": "a",
+        "text": "high-context"
+      },
+      {
+        "id": "b",
+        "text": "low-context"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q025",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "The hormone associated with the body\u2019s stress response during speech anxiety is _____________ .",
+    "options": [
+      {
+        "id": "a",
+        "text": "epinephrine"
+      },
+      {
+        "id": "b",
+        "text": "adrenaline"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q026",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Which of the following is NOT a component of anxiety?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cognitive component"
+      },
+      {
+        "id": "b",
+        "text": "Somatic component"
+      },
+      {
+        "id": "c",
+        "text": "Behavioural component"
+      },
+      {
+        "id": "d",
+        "text": "Linguistic component"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q027",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Deardorff's model of intercultural competence consists of how many elements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Three"
+      },
+      {
+        "id": "b",
+        "text": "Four"
+      },
+      {
+        "id": "c",
+        "text": "Five"
+      },
+      {
+        "id": "d",
+        "text": "Six"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q028",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "According to Mulac and Sherman, which of the following is among the elements of speech fright?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dysfluency"
+      },
+      {
+        "id": "b",
+        "text": "Adaptation"
+      },
+      {
+        "id": "c",
+        "text": "Persuasion"
+      },
+      {
+        "id": "d",
+        "text": "Observation"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q029",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Intercultural communication, according to Martin and Nakayama, is best described as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A one-way transfer of information"
+      },
+      {
+        "id": "b",
+        "text": "An interactive experience between different cultures"
+      },
+      {
+        "id": "c",
+        "text": "A method for cultural standardization"
+      },
+      {
+        "id": "d",
+        "text": "A process of eliminating cultural differences"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W03-Q030",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 3,
+    "topic": "Assignment 3",
+    "questionText": "Which of the following theorists is associated with the concept of Cultural Intelligence?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lev Vygotsky"
+      },
+      {
+        "id": "b",
+        "text": "Geert Hofstede"
+      },
+      {
+        "id": "c",
+        "text": "Christopher Earley and Soon Ang"
+      },
+      {
+        "id": "d",
+        "text": "Daniel Goleman"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q031",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "________ is the currency of persuasion.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agitation"
+      },
+      {
+        "id": "b",
+        "text": "Affection"
+      },
+      {
+        "id": "c",
+        "text": "Attention"
+      },
+      {
+        "id": "d",
+        "text": "Falsification"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q032",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "________ is a way to grab attention and refresh the audience.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Divulsion"
+      },
+      {
+        "id": "b",
+        "text": "Digression"
+      },
+      {
+        "id": "c",
+        "text": "Disgrace"
+      },
+      {
+        "id": "d",
+        "text": "Diabolical"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q033",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "_____ have always been a site of persuasion.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stages"
+      },
+      {
+        "id": "b",
+        "text": "Solitude"
+      },
+      {
+        "id": "c",
+        "text": "Annoyance"
+      },
+      {
+        "id": "d",
+        "text": "Aggression"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q034",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "________ criticism is a component of classroom teaching-learning process.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Healthy"
+      },
+      {
+        "id": "b",
+        "text": "Harsh"
+      },
+      {
+        "id": "c",
+        "text": "Heroic"
+      },
+      {
+        "id": "d",
+        "text": "Hermeneutic"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q035",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "John Dewey was an _______ educator and philosopher.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Austrian"
+      },
+      {
+        "id": "b",
+        "text": "Belgian"
+      },
+      {
+        "id": "c",
+        "text": "British"
+      },
+      {
+        "id": "d",
+        "text": "American"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q036",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "Digression is employed by the speaker for ________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "surprise effect"
+      },
+      {
+        "id": "b",
+        "text": "nuisance"
+      },
+      {
+        "id": "c",
+        "text": "continuous repetition"
+      },
+      {
+        "id": "d",
+        "text": "jargon usage"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q037",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "Which among the following options is not a type of dramatic speech?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Soliloquy"
+      },
+      {
+        "id": "b",
+        "text": "Aside"
+      },
+      {
+        "id": "c",
+        "text": "Silence"
+      },
+      {
+        "id": "d",
+        "text": "Monologue"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q038",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "Dramatic Monologue has been used by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toru Dutt"
+      },
+      {
+        "id": "b",
+        "text": "Lord Byron"
+      },
+      {
+        "id": "c",
+        "text": "William Shakespeare"
+      },
+      {
+        "id": "d",
+        "text": "Robert Browning"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q039",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "The basic principle of the classroom comprises ______ and democracy.",
+    "options": [
+      {
+        "id": "a",
+        "text": "equity"
+      },
+      {
+        "id": "b",
+        "text": "equality"
+      },
+      {
+        "id": "c",
+        "text": "quality"
+      },
+      {
+        "id": "d",
+        "text": "quantity"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W04-Q040",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 4,
+    "topic": "Assignment 4",
+    "questionText": "Teaching has to be ________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "provocational"
+      },
+      {
+        "id": "b",
+        "text": "unidirectional"
+      },
+      {
+        "id": "c",
+        "text": "authorotative"
+      },
+      {
+        "id": "d",
+        "text": "participatory"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q041",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Expressiveness, clarity, interaction, inclusiveness, and empathy are described as fundamental characteristics of effective lecturing.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q042",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Violating someone's space (territory) can most likely trigger __________",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased comprehension"
+      },
+      {
+        "id": "b",
+        "text": "Flight or fight response"
+      },
+      {
+        "id": "c",
+        "text": "Anxiety"
+      },
+      {
+        "id": "d",
+        "text": "Anger"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q043",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "The term Kinesics was first introduced in the year __________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "1956"
+      },
+      {
+        "id": "b",
+        "text": "1952"
+      },
+      {
+        "id": "c",
+        "text": "1953"
+      },
+      {
+        "id": "d",
+        "text": "1950"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q044",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Dr. Desmond Morris describes the __________ gesture as an unconscious sign that a speaker might be lying or hiding something.",
+    "options": [
+      {
+        "id": "a",
+        "text": "hand-to-face or mouth-guard"
+      },
+      {
+        "id": "b",
+        "text": "leg scratching"
+      },
+      {
+        "id": "c",
+        "text": "sweating"
+      },
+      {
+        "id": "d",
+        "text": "eye-twitching"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q045",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "The lecturer cites Sachs to claim that touch is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "A modern addition to communication"
+      },
+      {
+        "id": "b",
+        "text": "The foundation for communication with the world"
+      },
+      {
+        "id": "c",
+        "text": "Less important than sight and hearing"
+      },
+      {
+        "id": "d",
+        "text": "Only relevant in intimate relationships"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q046",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "What term does Wright introduce to describe regimentation of people by time-keeping, and what warning does the lecturer give about it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chronotopia \u2014 that it leads to creative freedom"
+      },
+      {
+        "id": "b",
+        "text": "Chronarchy \u2014 that humans should use time, not be ruled by it"
+      },
+      {
+        "id": "c",
+        "text": "Chronometer \u2014 that clocks are unreliable"
+      },
+      {
+        "id": "d",
+        "text": "Chronology \u2014 that history dictates punctuality"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q047",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "What distance range did the lecture give for the intimate zone (approximate)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "12 to 25 feet"
+      },
+      {
+        "id": "b",
+        "text": "4 to 12 feet"
+      },
+      {
+        "id": "c",
+        "text": "1.5 to 0.45 meters (approx.)"
+      },
+      {
+        "id": "d",
+        "text": "6 to 18 inches"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q048",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Freud is quoted as arguing that a person can keep all secrets through control of body language.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q049",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Edward T. Hall coined the term proxemics and discussed it in his book The Hidden Dimension.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W05-Q050",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 5,
+    "topic": "Assignment 5",
+    "questionText": "Which of the following is NOT one of the classifications of time discussed in the lecture?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Social time"
+      },
+      {
+        "id": "b",
+        "text": "Psychological time"
+      },
+      {
+        "id": "c",
+        "text": "Technological time"
+      },
+      {
+        "id": "d",
+        "text": "Biological time"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q051",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Deductive reasoning proceeds from a general principle to a specific conclusion.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q052",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Meta-communication refers exclusively to communication about language used in literary texts.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q053",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Hoarseness occurs due to the passage of excess air through the vocal cords during articulation.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q054",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Pitch is determined by the frequency of vocal cord vibrations.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q055",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "The International Phonetic Alphabet (IPA) is primarily used for grammatical analysis.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q056",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Which of the following is a type of conversation identified by Adler?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Political"
+      },
+      {
+        "id": "b",
+        "text": "Practical"
+      },
+      {
+        "id": "c",
+        "text": "Persuasive"
+      },
+      {
+        "id": "d",
+        "text": "Narrative"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q057",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "The study of graphemes and writing systems is known as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Graphology"
+      },
+      {
+        "id": "b",
+        "text": "Graphonomics"
+      },
+      {
+        "id": "c",
+        "text": "Graphemics"
+      },
+      {
+        "id": "d",
+        "text": "Phonemics"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q058",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "The negotiation outcome termed as BATNA refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Basic Agreement Through Negotiated Action"
+      },
+      {
+        "id": "b",
+        "text": "Best Alternative to a Negotiated Agreement"
+      },
+      {
+        "id": "c",
+        "text": "Balanced Approach Towards Negotiated Arrangements"
+      },
+      {
+        "id": "d",
+        "text": "Bilateral Agreement Through National Arbitration"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q059",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "Who is the author of the book Pragmatics of Human Communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "George Yule"
+      },
+      {
+        "id": "b",
+        "text": "Gregory Bateson"
+      },
+      {
+        "id": "c",
+        "text": "Noam Chomsky"
+      },
+      {
+        "id": "d",
+        "text": "Paul Watzlawick"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W06-Q060",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 6,
+    "topic": "Assignment 6",
+    "questionText": "In English intonation, which pair of tones is commonly observed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Linear and Circular"
+      },
+      {
+        "id": "b",
+        "text": "High and Low"
+      },
+      {
+        "id": "c",
+        "text": "Rising and Falling"
+      },
+      {
+        "id": "d",
+        "text": "Open and Closed"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q061",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Elocution is derived from the Latin word",
+    "options": [
+      {
+        "id": "a",
+        "text": "electra"
+      },
+      {
+        "id": "b",
+        "text": "elocutio"
+      },
+      {
+        "id": "c",
+        "text": "election"
+      },
+      {
+        "id": "d",
+        "text": "escalation"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q062",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "The correct pronunciation of words is called",
+    "options": [
+      {
+        "id": "a",
+        "text": "Orthoepy"
+      },
+      {
+        "id": "b",
+        "text": "Orcoepy"
+      },
+      {
+        "id": "c",
+        "text": "Onacology"
+      },
+      {
+        "id": "d",
+        "text": "Osmalogy"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q063",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "According to Lukas, the three general criteria for judging speech are accuracy, _______ and audience\u2019s interest.",
+    "options": [
+      {
+        "id": "a",
+        "text": "correspondence"
+      },
+      {
+        "id": "b",
+        "text": "control"
+      },
+      {
+        "id": "c",
+        "text": "chaos"
+      },
+      {
+        "id": "d",
+        "text": "clarity"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q064",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Debate is a ______ communication.",
+    "options": [
+      {
+        "id": "a",
+        "text": "unilateral"
+      },
+      {
+        "id": "b",
+        "text": "bilateral"
+      },
+      {
+        "id": "c",
+        "text": "unidirectional"
+      },
+      {
+        "id": "d",
+        "text": "multidirectional"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q065",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "A positive tone while remembering the deceased is appreciated in _______ speeches.",
+    "options": [
+      {
+        "id": "a",
+        "text": "chaotic"
+      },
+      {
+        "id": "b",
+        "text": "fanatic"
+      },
+      {
+        "id": "c",
+        "text": "commemorative"
+      },
+      {
+        "id": "d",
+        "text": "superlative"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q066",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Prefixes are generally accented.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q067",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Falling tone signals the completion of a statement.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q068",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Group discussion is a competitive platform.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q069",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Compound Rising is used to convey a warning (antithesis to interrogation).",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W07-Q070",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 7,
+    "topic": "Assignment 7",
+    "questionText": "Manner is the native unquarried rock, whereas matter is the tool to transform it into \u2018a sculptured palace\u2019.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q071",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "Rod A. Martin\u2019s four styles of humour mentioned are affiliative, self-enhancing, aggressive, and self-defeating.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q072",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The primary purpose of an exit interview is to gather candid feedback from a departing empl)oyee to identify organisational flaws and improve company culture.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q073",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "Pre-interview research is highlighted as an absolute necessity to construct relevant, contextual answers and demonstrate genuine interest.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q074",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The main goal of an unstructured interview is to scare the candidate and make them feel defensive.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q075",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "Group interviews usually look out for the __________ of the candidate.",
+    "options": [
+      {
+        "id": "a",
+        "text": "leadership skills"
+      },
+      {
+        "id": "b",
+        "text": "communication skills"
+      },
+      {
+        "id": "c",
+        "text": "presentation skills"
+      },
+      {
+        "id": "d",
+        "text": "dressing skills"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q076",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The laddering framework is theoretically rooted in psychologist Kevin Olson\u2019s __________ Chain Theory.",
+    "options": [
+      {
+        "id": "a",
+        "text": "End-to-end"
+      },
+      {
+        "id": "b",
+        "text": "Means-end"
+      },
+      {
+        "id": "c",
+        "text": "Top-to-bottom"
+      },
+      {
+        "id": "d",
+        "text": "right-to-left"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q077",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The \"Row Boat Technique\" is a structural strategy candidates use to maintain balance, rhythm, and __________ when responding to a panel.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Control"
+      },
+      {
+        "id": "b",
+        "text": "Contract"
+      },
+      {
+        "id": "c",
+        "text": "Expand"
+      },
+      {
+        "id": "d",
+        "text": "Relax"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q078",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The lecturer warns of a hazard when companies use a \"one size fit\" approach in structured interviews. What is that hazard?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It becomes too costly"
+      },
+      {
+        "id": "b",
+        "text": "It may be redundant or may not work in certain situations"
+      },
+      {
+        "id": "c",
+        "text": "It increases interviewer bias"
+      },
+      {
+        "id": "d",
+        "text": "It prevents follow-up questions"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q079",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "The STAR method recommended for situational or behavioral interviews stands for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Situation, Task, Action, Result"
+      },
+      {
+        "id": "b",
+        "text": "Strategy, Tactics, Analysis, Review"
+      },
+      {
+        "id": "c",
+        "text": "Statement, Testimony, Argument, Response"
+      },
+      {
+        "id": "d",
+        "text": "Survey, Test, Assess, Report"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W08-Q080",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 8,
+    "topic": "Assignment 8",
+    "questionText": "Which nonverbal behaviors does the speaker explicitly recommend maintaining during an interview?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frequent fidgeting and changing positions"
+      },
+      {
+        "id": "b",
+        "text": "Avoiding eye contact to appear humble"
+      },
+      {
+        "id": "c",
+        "text": "Careful dress, confident bearing, handshake when appropriate, and steady eye contact"
+      },
+      {
+        "id": "d",
+        "text": "Using many fillers like \"uh\" and \"um\" to sound natural"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q081",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "The official written record of the proceedings and decisions of a meeting is known as the ____________ of the meeting.",
+    "options": [
+      {
+        "id": "a",
+        "text": "minutes"
+      },
+      {
+        "id": "b",
+        "text": "agenda"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q082",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "The leadership style characterized by extensive delegation of authority is known as ____________ leadership.",
+    "options": [
+      {
+        "id": "a",
+        "text": "transactional"
+      },
+      {
+        "id": "b",
+        "text": "laissez-faire"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q083",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Questions that seek personal opinions, experiences, and subjective responses are called ____________ questions.",
+    "options": [
+      {
+        "id": "a",
+        "text": "open-ended"
+      },
+      {
+        "id": "b",
+        "text": "closed-ended"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q084",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "The Situational Leadership Theory was developed by Paul Hersey and ____________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ken Blanchard"
+      },
+      {
+        "id": "b",
+        "text": "Marcus Kotter"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q085",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "A conference organized to resolve disputes and end hostilities between nations is called a ____________ conference.",
+    "options": [
+      {
+        "id": "a",
+        "text": "settlement"
+      },
+      {
+        "id": "b",
+        "text": "peace"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q086",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Which of the following is most closely associated with Impression Management in communicative interactions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Self-promotion and positive relationship building"
+      },
+      {
+        "id": "b",
+        "text": "Technical skill assessment only"
+      },
+      {
+        "id": "c",
+        "text": "Avoidance of self-description"
+      },
+      {
+        "id": "d",
+        "text": "Limiting communication with the interviewer"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q087",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Which of the following documents is prepared before a meeting takes place?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minutes"
+      },
+      {
+        "id": "b",
+        "text": "Anticipation"
+      },
+      {
+        "id": "c",
+        "text": "Agenda"
+      },
+      {
+        "id": "d",
+        "text": "Memorandum"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q088",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Which of the following is most closely associated with Transactional Leadership style?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shared vision"
+      },
+      {
+        "id": "b",
+        "text": "Rewards and punishments"
+      },
+      {
+        "id": "c",
+        "text": "Delegation without supervision"
+      },
+      {
+        "id": "d",
+        "text": "Participative decision-making"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q089",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Virtual conferences are considered advantageous because they:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eliminate the need for technology"
+      },
+      {
+        "id": "b",
+        "text": "Overcome geographical barriers"
+      },
+      {
+        "id": "c",
+        "text": "Guarantee audience participation"
+      },
+      {
+        "id": "d",
+        "text": "Remove communication challenges"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W09-Q090",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 9,
+    "topic": "Assignment 9",
+    "questionText": "Which of the following is an essential characteristic of an unconference?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strict adherence to a formal structure"
+      },
+      {
+        "id": "b",
+        "text": "Heavy dependence on written proceedings"
+      },
+      {
+        "id": "c",
+        "text": "Flexible and less formal organization"
+      },
+      {
+        "id": "d",
+        "text": "Judicial decision-making authority"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q091",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "A leader is a forceful and ______ personality.",
+    "options": [
+      {
+        "id": "a",
+        "text": "dynamic"
+      },
+      {
+        "id": "b",
+        "text": "dubious"
+      },
+      {
+        "id": "c",
+        "text": "timid"
+      },
+      {
+        "id": "d",
+        "text": "tiresome"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q092",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Audio-visual aids are also known as ______ material.",
+    "options": [
+      {
+        "id": "a",
+        "text": "passive"
+      },
+      {
+        "id": "b",
+        "text": "instructional"
+      },
+      {
+        "id": "c",
+        "text": "institutional"
+      },
+      {
+        "id": "d",
+        "text": "suggestive"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q093",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Who among the following is not an author of The Essentials of Leadership in Government?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Darryl Plecas"
+      },
+      {
+        "id": "b",
+        "text": "Colette Squires"
+      },
+      {
+        "id": "c",
+        "text": "Len Garis"
+      },
+      {
+        "id": "d",
+        "text": "Lincoln Myers"
+      }
+    ],
+    "correctOption": "d",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q094",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Which among these is not a basic type of listening:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Active listening"
+      },
+      {
+        "id": "b",
+        "text": "Inactive listening"
+      },
+      {
+        "id": "c",
+        "text": "Divisive listening"
+      },
+      {
+        "id": "d",
+        "text": "Selective listening"
+      }
+    ],
+    "correctOption": "c",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q095",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Which quality of voice is understood as the pectoral:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low-pitched and slow"
+      },
+      {
+        "id": "b",
+        "text": "Round and full"
+      },
+      {
+        "id": "c",
+        "text": "The natural human voice"
+      },
+      {
+        "id": "d",
+        "text": "Explosive resonance in the throat"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q096",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Innovative is one of the behavioural attributes of the BASICS model.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q097",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "According to Simon Ortis, \u201cThe only person who likes change is a baby with a wet diaper\u201d.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q098",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Blackboard is an example of an audio aid in public speaking.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q099",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Arbitrary is a word or phrase that connects the ideas of a speech and indicates the relationship between them.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W10-Q100",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 10,
+    "topic": "Assignment 10",
+    "questionText": "Audience awareness is an essential component of pre-presentation preparation.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q101",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "The six C's of language discussed are clarity, colour, concreteness, correctness, conciseness, and cultural sensitivity.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q102",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "Jargon, euphemism, and Newspeak are elements that help bring clarity to public speaking.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q103",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "Christopher Turk\u2019s seven levers of persuasion are offered as tools to help speakers overcome anxiety and win over critics.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q104",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "Critical thinking and creative thinking are identical and interchangeable.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q105",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "George Yule, in his book The Study of Language, discusses the significance of linguistic context, also termed in speech.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Co-text"
+      },
+      {
+        "id": "b",
+        "text": "Syntax"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q106",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "Deictic Expressions refer to those bits of language which can be understood or interpreted only when the listener knows the of the speaker.",
+    "options": [
+      {
+        "id": "a",
+        "text": "immediate context; especially the physical context"
+      },
+      {
+        "id": "b",
+        "text": "presupposition"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q107",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "The chief objective of a workshop is to add to the expertise of every participant by _________.",
+    "options": [
+      {
+        "id": "a",
+        "text": "practical work and training for new products, policies, or ideas"
+      },
+      {
+        "id": "b",
+        "text": "by providing formal academic certification without practical activities"
+      }
+    ],
+    "correctOption": "a",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q108",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "According to McCrae and Costa\u2019s Five-Factor model\u2019s the personality trait of _________ is most highly correlated with creative thinking.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agreeableness"
+      },
+      {
+        "id": "b",
+        "text": "Openness to experience"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q109",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "Who propounded the linguistic relativity hypothesis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aristotle and Descartes"
+      },
+      {
+        "id": "b",
+        "text": "Sapir and Benjamin Lee Whorf"
+      },
+      {
+        "id": "c",
+        "text": "Roman Jacobson and S.I. Hayakawa"
+      },
+      {
+        "id": "d",
+        "text": "Michael Osborne and Roy Peter Clark"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W11-Q110",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 11,
+    "topic": "Assignment 11",
+    "questionText": "According to the lecture, which two components must creative thinking satisfy for ideas to be valuable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Originality and popularity"
+      },
+      {
+        "id": "b",
+        "text": "Originality and functionality"
+      },
+      {
+        "id": "c",
+        "text": "Functionality and simplicity"
+      },
+      {
+        "id": "d",
+        "text": "Simplicity and popularity"
+      }
+    ],
+    "correctOption": "b",
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q111",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "In a group interview, displaying individuality over team spirit is ideal when describing how colleagues perceive you.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q112",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Advertising on social media should adhere to censorship procedures to maintain decorum in online interactions.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q113",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "The primary purpose of time stamping on social media is to identify the user who created the post.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q114",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "When discussing weaknesses in an interview, the candidate should present them as significant flaws.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q115",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Privacy concerns in online communication arise due to the potential exposure of personal information on social media.",
+    "options": [
+      {
+        "id": "a",
+        "text": "True"
+      },
+      {
+        "id": "b",
+        "text": "False"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q116",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Which of the following best describes the role of the \u2018digital divide\u2019 in modern communication?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It separates online and offline advertisements."
+      },
+      {
+        "id": "b",
+        "text": "It refers to the gap created by unequal access to technology and the Internet."
+      },
+      {
+        "id": "c",
+        "text": "It defines the boundary between social media and news media."
+      },
+      {
+        "id": "d",
+        "text": "It describes the time difference between posting and receiving content online."
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q117",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Among the five determining factors of the digital divide, which of the following is NOT one of them?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Availability"
+      },
+      {
+        "id": "b",
+        "text": "Affordability"
+      },
+      {
+        "id": "c",
+        "text": "Appearance"
+      },
+      {
+        "id": "d",
+        "text": "Acceptability"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q118",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "In the STAR technique for situational interview responses, what does the letter \u2018S\u2019 stand for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Summary"
+      },
+      {
+        "id": "b",
+        "text": "Situation"
+      },
+      {
+        "id": "c",
+        "text": "Strength"
+      },
+      {
+        "id": "d",
+        "text": "Skill"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q119",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Which interview format involves one interviewee being assessed by multiple interviewers simultaneously?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Group Interview"
+      },
+      {
+        "id": "b",
+        "text": "Telephonic Interview"
+      },
+      {
+        "id": "c",
+        "text": "Panel Interview"
+      },
+      {
+        "id": "d",
+        "text": "Sectional Interview"
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  },
+  {
+    "id": "PUB-W12-Q120",
+    "courseId": "public-speaking",
+    "courseName": "Public Speaking",
+    "week": 12,
+    "topic": "Assignment 12",
+    "questionText": "Which famous speech was delivered by Swami Vivekananda in 1893 at the World\u2019s Parliament of Religions, introducing Hinduism, Vedanta, and Yoga to the Western world?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Gettysburg Address"
+      },
+      {
+        "id": "b",
+        "text": "The Tilbury Speech"
+      },
+      {
+        "id": "c",
+        "text": "\u201cI Have a Dream\u201d Speech"
+      },
+      {
+        "id": "d",
+        "text": "The Chicago Address"
+      },
+      {
+        "id": "e",
+        "text": "You may submit any number of times before the due date. The final submission will be considered for evaluation."
+      }
+    ],
+    "correctOption": null,
+    "explanation": "Explanation not provided in source document.",
+    "sourceType": "weekly_quiz"
+  }
+]

@@ -284,6 +284,23 @@ describe('submitQuiz', () => {
     expect(result.attempted).toBe(5);
   });
 
+  it('should ignore unverified questions from score and accuracy calculations', () => {
+    const unverifiedQ: Question = { ...questions[0], id: 'Q_UNV', correctOption: null };
+    let session = createQuizSession([...questions, unverifiedQ], makeConfig());
+    
+    // Answer an unverified question
+    session = selectAnswer(session, 'Q_UNV', 'a');
+    
+    const result = submitQuiz(session);
+    
+    expect(result.correct).toBe(0);
+    expect(result.incorrect).toBe(0);
+    expect(result.score).toBe(0);
+    expect(result.maxScore).toBe(5); // 5 verifiable questions
+    expect(result.attempted).toBe(0);
+    expect(result.accuracy).toBe(null);
+  });
+
   it('should calculate correct results for mixed answers', () => {
     let session = createQuizSession(questions, makeConfig());
     session = selectAnswer(session, 'Q1', 'a'); // correct
