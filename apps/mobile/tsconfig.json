@@ -1,0 +1,14 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": ".",
+    "jsx": "react-native",
+    "composite": false
+  },
+  "include": ["src", "App.tsx", "index.ts"],
+  "references": [
+    { "path": "../../packages/question-schema" },
+    { "path": "../../packages/quiz-core" }
+  ]
+}

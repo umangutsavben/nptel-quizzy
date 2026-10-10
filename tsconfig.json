@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/question-schema" },
+    { "path": "packages/quiz-core" },
+    { "path": "apps/web" },
+    { "path": "apps/mobile" }
+  ]
+}

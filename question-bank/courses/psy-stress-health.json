@@ -1,0 +1,2786 @@
+[
+  {
+    "id": "PSY-W01-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "What is the central idea of the interactional definition of stress proposed by Lazarus and Folkman?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stress is a set of symptoms"
+      },
+      {
+        "id": "b",
+        "text": "Stress is the physiological response to any demand"
+      },
+      {
+        "id": "c",
+        "text": "Stress is a particular relationship between the person and the environment"
+      },
+      {
+        "id": "d",
+        "text": "Stress is a subjective phenomenon based on individual perception"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "What is reappraisal according to the appraisal model of stress?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is a judgment of a situation as positive or negative during secondary appraisal"
+      },
+      {
+        "id": "b",
+        "text": "It is an evaluation of personal resources in response to a stressful situation"
+      },
+      {
+        "id": "c",
+        "text": "It is an appraisal that follows an earlier appraisal in the same encounter and modifies it"
+      },
+      {
+        "id": "d",
+        "text": "It is the process of judging a particular event as irrelevant, relevant, or stressful during primary appraisal"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "How can culture influence an individual's experience of stress?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By determining daily hassles"
+      },
+      {
+        "id": "b",
+        "text": "By influencing the appraisal/perception of an event"
+      },
+      {
+        "id": "c",
+        "text": "By creating positive spillover effects"
+      },
+      {
+        "id": "d",
+        "text": "By causing stress contagion"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "How are harm loss appraisals different from threat appraisals according to Lazarus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Harm loss appraisals are future-oriented, while threat appraisals are past-oriented"
+      },
+      {
+        "id": "b",
+        "text": "Harm loss appraisals result from loss or damage, while threat appraisals are present-oriented"
+      },
+      {
+        "id": "c",
+        "text": "Harm loss appraisals are past or present-oriented and result from appraisals of loss or damage, while threat appraisals are future-oriented"
+      },
+      {
+        "id": "d",
+        "text": "Harm loss appraisals see the potential for gain or growth, while threat appraisals involve evaluation of personal resources"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "What does pressure to conform involve, according to the paragraph?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Expectations to perform tasks"
+      },
+      {
+        "id": "b",
+        "text": "Life changes requiring readjustment"
+      },
+      {
+        "id": "c",
+        "text": "Expectations to follow others' values and rules"
+      },
+      {
+        "id": "d",
+        "text": "Pursuit of a goal being thwarted"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "Which system is responsible for the quick reaction (within a minute) in response to acute stress?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parasympathetic nervous system"
+      },
+      {
+        "id": "b",
+        "text": "Hypothalamic pituitary adrenocortical (HPA) system"
+      },
+      {
+        "id": "c",
+        "text": "Sympathetic adrenal medullary (SAM) system"
+      },
+      {
+        "id": "d",
+        "text": "Limbic system"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "Which system leads to the secretion of corticosteroids such as cortisol in the stress response?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parasympathetic Nervous System (PNS)"
+      },
+      {
+        "id": "b",
+        "text": "Hypothalamic Pituitary Adrenocortical (HPA) system"
+      },
+      {
+        "id": "c",
+        "text": "Central Nervous System (CNS)"
+      },
+      {
+        "id": "d",
+        "text": "Enteric Nervous System (ENS)"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W01-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 1,
+    "topic": "Stress and Coping",
+    "questionText": "According to the \"Tend and Befriend\" pattern, how do females respond to stress?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Initiating the fight or flight response"
+      },
+      {
+        "id": "b",
+        "text": "Showing aggressive behavior"
+      },
+      {
+        "id": "c",
+        "text": "Engaging in nurturant activities and maintaining social networks"
+      },
+      {
+        "id": "d",
+        "text": "Withdrawing from social interactions"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "What does the term \"psychosomatic diseases\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mental illnesses only"
+      },
+      {
+        "id": "b",
+        "text": "Physical diseases caused by bacteria"
+      },
+      {
+        "id": "c",
+        "text": "Physical diseases influenced by mental factors"
+      },
+      {
+        "id": "d",
+        "text": "Genetic disorders"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "How does stress contribute to cardiovascular diseases?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By promoting blood clotting"
+      },
+      {
+        "id": "b",
+        "text": "By decreasing blood pressure"
+      },
+      {
+        "id": "c",
+        "text": "By causing high levels of physiological arousal and promoting atherosclerosis"
+      },
+      {
+        "id": "d",
+        "text": "By reducing the build-up of fatty patches on arterial walls"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "How does Broken Heart Syndrome differ from a heart attack?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It has milder symptoms"
+      },
+      {
+        "id": "b",
+        "text": "It is caused by blocked heart arteries"
+      },
+      {
+        "id": "c",
+        "text": "There's no evidence of blocked heart arteries in Broken Heart Syndrome"
+      },
+      {
+        "id": "d",
+        "text": "It is less common in women"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "What did Friedman and Rosenman find in their longitudinal study regarding the likelihood of developing coronary heart disease (CHD) between Type A and Type B individuals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Type B individuals were twice as likely to develop CHD"
+      },
+      {
+        "id": "b",
+        "text": "No significant difference between Type A and Type B individuals"
+      },
+      {
+        "id": "c",
+        "text": "Type A individuals were twice as likely to develop CHD"
+      },
+      {
+        "id": "d",
+        "text": "Type A individuals were less likely to develop CHD"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "What interdisciplinary field of study explores the relationship between psychological factors, neurological factors, and the immune system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neurobiology"
+      },
+      {
+        "id": "b",
+        "text": "Psychoneuroimmunology"
+      },
+      {
+        "id": "c",
+        "text": "Psychopharmacology"
+      },
+      {
+        "id": "d",
+        "text": "Immunology"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "According to Dhabhar and McEwen's (1997, 2001) biphasic model, how does acute stress affect the immune response?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Suppresses the immune response"
+      },
+      {
+        "id": "b",
+        "text": "Has no impact on the immune response"
+      },
+      {
+        "id": "c",
+        "text": "Enhances the immune response by helping in the redistribution of immune cells in the body"
+      },
+      {
+        "id": "d",
+        "text": "Causes exhaustion and weakens immune responses"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "How does Acute Stress Disorder (ASD) differ from posttraumatic stress disorder (PTSD), according to Barnhill (2020)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ASD has longer duration"
+      },
+      {
+        "id": "b",
+        "text": "ASD lasts less than a month, while PTSD persists longer"
+      },
+      {
+        "id": "c",
+        "text": "Both have the same duration"
+      },
+      {
+        "id": "d",
+        "text": "ASD is more severe than PTSD"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W02-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 2,
+    "topic": "Stress, Health and Immunity",
+    "questionText": "What is mentioned as a potential cause of Complex PTSD (CPTSD)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Single traumatic events"
+      },
+      {
+        "id": "b",
+        "text": "Repeated, prolonged, interpersonal trauma exposure"
+      },
+      {
+        "id": "c",
+        "text": "Childhood accidents"
+      },
+      {
+        "id": "d",
+        "text": "Natural disasters"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "How is PTG related to coping in the context of trauma, according to Tedeschi and Calhoun (2004)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Coping is the direct result of PTG"
+      },
+      {
+        "id": "b",
+        "text": "Coping is necessary but not sufficient to achieve psychological thriving or PTG"
+      },
+      {
+        "id": "c",
+        "text": "Coping is unrelated to PTG"
+      },
+      {
+        "id": "d",
+        "text": "PTG and coping are interchangeable terms"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "How does PTG differ from resilience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Resilience emphasizes stability in the context of trauma, while PTG involves returning to baseline functioning after the trauma"
+      },
+      {
+        "id": "b",
+        "text": "Resilience involves profound and significant improvement after the trauma, while PTG focuses on returning to baseline functioning after the trauma"
+      },
+      {
+        "id": "c",
+        "text": "Resilience is the ability to bounce back and go on with life after a hardship, while PTG involves improvement that is deeply profound and significant after the trauma"
+      },
+      {
+        "id": "d",
+        "text": "Resilience and PTG are interchangeable terms, representing the same concept"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "According to the theoretical model of PTG by Tedeschi and Calhoun, how is the relationship between posttraumatic stress (PTS) and posttraumatic growth (PTG) characterized?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PTS and PTG are opposite ends of a spectrum"
+      },
+      {
+        "id": "b",
+        "text": "PTS is unrelated to PTG"
+      },
+      {
+        "id": "c",
+        "text": "PTS and PTG are negatively correlated"
+      },
+      {
+        "id": "d",
+        "text": "Some degree of PTS is a prerequisite for PTG"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "External locus of control has been associated with \u2026\u2026\u2026\u2026\u2026\u2026 coping strategies.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Help seeking"
+      },
+      {
+        "id": "b",
+        "text": "Avoidance"
+      },
+      {
+        "id": "c",
+        "text": "Positive thinking"
+      },
+      {
+        "id": "d",
+        "text": "All of these"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "Which of the following is an example of an internal, unstable, and controllable factor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hard work"
+      },
+      {
+        "id": "b",
+        "text": "Ability"
+      },
+      {
+        "id": "c",
+        "text": "Luck"
+      },
+      {
+        "id": "d",
+        "text": "Task characteristics"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "In the research on hardiness conducted by Maddi and Kobasa, what differentiated the one-third of the sample that thrived from the two-thirds that suffered after the deregulation event?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Age differences"
+      },
+      {
+        "id": "b",
+        "text": "Work experience"
+      },
+      {
+        "id": "c",
+        "text": "Psychological hardiness"
+      },
+      {
+        "id": "d",
+        "text": "Gender variations"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "How do individuals with high external locus of control (ELoC) tend to perceive outcomes in life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "As a result of personal factors"
+      },
+      {
+        "id": "b",
+        "text": "Influenced by factors such as luck and chance"
+      },
+      {
+        "id": "c",
+        "text": "Predictable and within their control"
+      },
+      {
+        "id": "d",
+        "text": "Internally determined"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W03-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 3,
+    "topic": "Posttraumatic Growth, Coping and Hardiness",
+    "questionText": "According to Joseph and Linley's Organismic Valuing Theory, what is the main principle underlying the process of growth through adversity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Behavioral conditioning"
+      },
+      {
+        "id": "b",
+        "text": "Cognitive restructuring"
+      },
+      {
+        "id": "c",
+        "text": "Inherent tendencies towards growth and actualization"
+      },
+      {
+        "id": "d",
+        "text": "Psychoanalytic theory"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "Which of the following is an example of emotion-focused coping?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Generating options to solve the problem"
+      },
+      {
+        "id": "b",
+        "text": "Expression of negative emotion"
+      },
+      {
+        "id": "c",
+        "text": "Implementing steps to solve the problem"
+      },
+      {
+        "id": "d",
+        "text": "Obtaining advice or instrumental help"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "How do problem-focused coping and emotion-focused coping interact?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They hinder each other's effectiveness"
+      },
+      {
+        "id": "b",
+        "text": "Problem-focused coping enhances distress in a threatening situation"
+      },
+      {
+        "id": "c",
+        "text": "They tend to facilitate one another"
+      },
+      {
+        "id": "d",
+        "text": "Problem-focused coping diminishes the effectiveness of emotion-focused coping"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "What personality traits are linked to the behavioral inhibition system, making individuals more likely to use avoidance coping strategies?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extraversion"
+      },
+      {
+        "id": "b",
+        "text": "Openness"
+      },
+      {
+        "id": "c",
+        "text": "Neuroticism"
+      },
+      {
+        "id": "d",
+        "text": "Optimism"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "What is the concept of \"learned helplessness\" proposed by Martin Seligman (1967) related to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Effective problem-solving in uncontrollable situations"
+      },
+      {
+        "id": "b",
+        "text": "The giving up/avoidance syndrome"
+      },
+      {
+        "id": "c",
+        "text": "Approach coping in uncontrollable situations"
+      },
+      {
+        "id": "d",
+        "text": "Perceived control in adaptive situations"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "Which of the following is NOT mentioned as one of the properties of defense mechanisms by Vaillant (1992)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They are unconscious mental processes"
+      },
+      {
+        "id": "b",
+        "text": "They are conscious and deliberate processes"
+      },
+      {
+        "id": "c",
+        "text": "They help manage instincts and affect"
+      },
+      {
+        "id": "d",
+        "text": "They are dynamic and reversible"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "How does a person with a dominant SUPER-EGO manifest in terms of behavior, according to Freud's theory?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Highly impulsive"
+      },
+      {
+        "id": "b",
+        "text": "Overly idealistic and moralistic"
+      },
+      {
+        "id": "c",
+        "text": "Engages in criminal behavior"
+      },
+      {
+        "id": "d",
+        "text": "Overly idealistic, moralistic, and judgmental"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "What is the key difference between repression and suppression?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Repression is conscious, while suppression is unconscious"
+      },
+      {
+        "id": "b",
+        "text": "Both involve conscious removal of unpleasant thoughts"
+      },
+      {
+        "id": "c",
+        "text": "Repression is unconscious, while suppression involves consciously removing unpleasant thoughts out of awareness"
+      },
+      {
+        "id": "d",
+        "text": "Suppression is a more mature defense mechanism than repression"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W04-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 4,
+    "topic": "Coping Strategies and Defense Mechanisms",
+    "questionText": "How does the Coping Effectiveness Training (CET) framework advise dealing with changeable and unchangeable stressors?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Use only problem-focused coping for both types of stressors"
+      },
+      {
+        "id": "b",
+        "text": "Use problem-focused coping for changeable stressors and emotion-focused coping for unchangeable stressors"
+      },
+      {
+        "id": "c",
+        "text": "Use only emotion-focused coping for both types of stressors"
+      },
+      {
+        "id": "d",
+        "text": "Avoid emotion-focused coping strategies for unchangeable stressors"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "How does changing the breathing pattern to slow and deep during anxiety or stress affect the autonomic nervous system?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Activates the sympathetic system."
+      },
+      {
+        "id": "b",
+        "text": "Activates the parasympathetic system."
+      },
+      {
+        "id": "c",
+        "text": "No impact on the autonomic nervous system."
+      },
+      {
+        "id": "d",
+        "text": "None of these."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "Progressive muscle relaxation involves \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. throughout the body.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Relaxing muscle groups in ordered sequence."
+      },
+      {
+        "id": "b",
+        "text": "Tensing muscle groups in ordered sequence."
+      },
+      {
+        "id": "c",
+        "text": "Tensing and relaxing muscle groups in ordered sequence."
+      },
+      {
+        "id": "d",
+        "text": "Tensing and relaxing muscle groups in random sequence."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "Catastrophic thinking is --------------------.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Conscious, deliberate, and flexible."
+      },
+      {
+        "id": "b",
+        "text": "Rational, logical, and conscious."
+      },
+      {
+        "id": "c",
+        "text": "Irrational, automatic, habitual, and unconscious."
+      },
+      {
+        "id": "d",
+        "text": "Positive, adaptive, and conscious."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "Which of the following is NOT mentioned as a characteristic of catastrophic thinking?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Based on irrational assumptions."
+      },
+      {
+        "id": "b",
+        "text": "Conscious and deliberate."
+      },
+      {
+        "id": "c",
+        "text": "Automatic and habitual."
+      },
+      {
+        "id": "d",
+        "text": "Unconscious."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "According to Albert Ellis, how can emotions be changed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By suppressing emotions."
+      },
+      {
+        "id": "b",
+        "text": "By changing thinking patterns."
+      },
+      {
+        "id": "c",
+        "text": "By ignoring emotions."
+      },
+      {
+        "id": "d",
+        "text": "By embracing irrational beliefs."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "Which one of the following is an example of tangible support?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Offering empathetic words."
+      },
+      {
+        "id": "b",
+        "text": "Providing financial assistance."
+      },
+      {
+        "id": "c",
+        "text": "Expressing understanding and affirmation."
+      },
+      {
+        "id": "d",
+        "text": "Offering advice during difficult times."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "In the social convoy model, what does the inner circle represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "People with less importance in one's life."
+      },
+      {
+        "id": "b",
+        "text": "People who are not supportive."
+      },
+      {
+        "id": "c",
+        "text": "People who are very close and hard to imagine life without."
+      },
+      {
+        "id": "d",
+        "text": "People with whom one has infrequent contact."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W05-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 5,
+    "topic": "Stress Management and Mindfulness",
+    "questionText": "What are the three components of mindfulness proposed by Shapiro and colleagues?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Awareness, Focus, and Presence."
+      },
+      {
+        "id": "b",
+        "text": "Intention, Attention, and Attitude."
+      },
+      {
+        "id": "c",
+        "text": "Concentration, Observation, and Acceptance."
+      },
+      {
+        "id": "d",
+        "text": "Meditation, Relaxation, and Reflection."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "What are the three components of subjective well-being (SWB)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Autonomy, positive relations with others, self-acceptance"
+      },
+      {
+        "id": "b",
+        "text": "Life satisfaction, autonomy, personal growth"
+      },
+      {
+        "id": "c",
+        "text": "Life satisfaction, the presence of positive mood, and the absence of negative mood"
+      },
+      {
+        "id": "d",
+        "text": "Autonomy, environmental mastery, purpose in life"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "Which part of the brain is associated with pleasure-seeking or hedonia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hot systems (older subcortical part of the brain)"
+      },
+      {
+        "id": "b",
+        "text": "Cold systems (newer, complex, cerebral part of the brain)"
+      },
+      {
+        "id": "c",
+        "text": "Both hot and cold systems"
+      },
+      {
+        "id": "d",
+        "text": "None of the above"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "In Keyes' model, what is the state characterized by low levels of subjective well-being and low levels of psychological and social well-being?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flourishing"
+      },
+      {
+        "id": "b",
+        "text": "Moderate mental health"
+      },
+      {
+        "id": "c",
+        "text": "Languishing"
+      },
+      {
+        "id": "d",
+        "text": "Subjective well-being"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "What is another term for hedonic well-being?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Psychological well-being"
+      },
+      {
+        "id": "b",
+        "text": "Subjective well-being"
+      },
+      {
+        "id": "c",
+        "text": "Affective well-being"
+      },
+      {
+        "id": "d",
+        "text": "Eudaimonic well-being"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "Personal growth, autonomy, and meaning in life are components of \u2026\u2026\u2026\u2026\u2026\u2026 well-being.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hedonic"
+      },
+      {
+        "id": "b",
+        "text": "Eudaimonic"
+      },
+      {
+        "id": "c",
+        "text": "Subjective"
+      },
+      {
+        "id": "d",
+        "text": "Both hedonic and eudaimonic"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "Which of the following statements is true for Martin Seligman\u2019s model of flourishing (PERMA)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is a hedonic model of well-being."
+      },
+      {
+        "id": "b",
+        "text": "It is a eudaimonic model of well-being."
+      },
+      {
+        "id": "c",
+        "text": "It is a combination of both hedonic and eudaimonic models of well-being."
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "In Martin Seligman\u2019s PERMA model, what does \"Engagement\" refer to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pleasant emotions"
+      },
+      {
+        "id": "b",
+        "text": "Social connections"
+      },
+      {
+        "id": "c",
+        "text": "Full involvement in activities that use skills to the fullest extent"
+      },
+      {
+        "id": "d",
+        "text": "A sense of accomplishment"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W06-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 6,
+    "topic": "General",
+    "questionText": "What are the two defining aspects of resilience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Resistance and recovery"
+      },
+      {
+        "id": "b",
+        "text": "Exposure to threat and positive adaptation"
+      },
+      {
+        "id": "c",
+        "text": "Development process and adaptation"
+      },
+      {
+        "id": "d",
+        "text": "Adversity and privilege"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "Which among the following is not part of Ruut Veenhoven\u2019s qualities of life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Livability of environment"
+      },
+      {
+        "id": "b",
+        "text": "Life-ability of the person"
+      },
+      {
+        "id": "c",
+        "text": "Utility of life"
+      },
+      {
+        "id": "d",
+        "text": "Meaning in life"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "What is affective forecasting?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Predictions about future events"
+      },
+      {
+        "id": "b",
+        "text": "Predictions about emotional reactions to future events"
+      },
+      {
+        "id": "c",
+        "text": "Predictions about physical reactions to future events"
+      },
+      {
+        "id": "d",
+        "text": "Predictions about past events"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "How does focalism contribute to the impact bias?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By accurately predicting the influence of other events on thoughts and feelings"
+      },
+      {
+        "id": "b",
+        "text": "By underestimating the intensity and duration of emotional reactions"
+      },
+      {
+        "id": "c",
+        "text": "By overestimating how much we will think about the event in the future and underestimating the influence of other events on our thoughts and feelings"
+      },
+      {
+        "id": "d",
+        "text": "By avoiding making sense of novel and unexpected events"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "What do empirical studies show regarding the relationship between subjective well-being and traditional objective well-being indicators?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strong correlation"
+      },
+      {
+        "id": "b",
+        "text": "Weak correlation"
+      },
+      {
+        "id": "c",
+        "text": "No correlation"
+      },
+      {
+        "id": "d",
+        "text": "Negative correlation"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "What does Easterlin's Paradox state about the relationship between happiness and income over time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Happiness increases linearly with increasing income."
+      },
+      {
+        "id": "b",
+        "text": "Happiness varies directly with income at a point in time but does not increase over time when a country\u2019s income increases."
+      },
+      {
+        "id": "c",
+        "text": "Happiness is unrelated to income."
+      },
+      {
+        "id": "d",
+        "text": "Happiness decreases with increasing income."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "How does social comparison theory explain Easterlin\u2019s Paradox?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A proportional increase in all incomes will increase average happiness."
+      },
+      {
+        "id": "b",
+        "text": "A proportional increase of all incomes in an economy or country would leave average happiness unaffected."
+      },
+      {
+        "id": "c",
+        "text": "A decrease in all incomes will increase average happiness."
+      },
+      {
+        "id": "d",
+        "text": "An increase in individual income will decrease average happiness."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "According to Barbara Fredrickson's 'broaden-and-build' theory, what is the function of positive emotions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Positive emotions narrow our attention and thinking."
+      },
+      {
+        "id": "b",
+        "text": "Positive emotions broaden our thought\u2013action repertoires."
+      },
+      {
+        "id": "c",
+        "text": "Positive emotions induce negative emotions simultaneously."
+      },
+      {
+        "id": "d",
+        "text": "Negative emotions enhance resilience."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W07-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 7,
+    "topic": "Happiness and Subjective Well-Being",
+    "questionText": "According to Fredrickson and Losada (2005), what is the significance of having a positivity ratio of 3:1 or above?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It has no impact on psychological well-being."
+      },
+      {
+        "id": "b",
+        "text": "It stimulates a downward spiral of negativity."
+      },
+      {
+        "id": "c",
+        "text": "It is more likely to stimulate an upward spiral of positivity and lead to flourishing and well-being."
+      },
+      {
+        "id": "d",
+        "text": "It is irrelevant to happiness intervention strategies."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "What is the term for the psychological process where people become accustomed to a stimulus and its emotional effects are reduced over time?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hedonic adaptation"
+      },
+      {
+        "id": "b",
+        "text": "Emotional stagnation"
+      },
+      {
+        "id": "c",
+        "text": "Baseline leveling"
+      },
+      {
+        "id": "d",
+        "text": "Stimulus habituation"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "According to the AREA Model, what does the explaining step determine in the process of hedonic adaptation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rate of attention"
+      },
+      {
+        "id": "b",
+        "text": "Rate of adaptation"
+      },
+      {
+        "id": "c",
+        "text": "Emotional intensity"
+      },
+      {
+        "id": "d",
+        "text": "Reacting process"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "In the study by Lucas and colleagues, which negative life events showed the most pronounced lack of hedonic adaptation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Divorce"
+      },
+      {
+        "id": "b",
+        "text": "Marriage"
+      },
+      {
+        "id": "c",
+        "text": "Severe disability"
+      },
+      {
+        "id": "d",
+        "text": "Unemployment"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "Which among the following personality traits is negatively related to happiness?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neuroticism"
+      },
+      {
+        "id": "b",
+        "text": "Openness"
+      },
+      {
+        "id": "c",
+        "text": "Extroversion"
+      },
+      {
+        "id": "d",
+        "text": "Agreeableness"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "According to Lyubomirsky, how does hedonic adaptation differ between positive and negative experiences?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Negative experiences lead to faster and complete adaptation"
+      },
+      {
+        "id": "b",
+        "text": "Positive experiences lead to faster and complete adaptation"
+      },
+      {
+        "id": "c",
+        "text": "Positive and negative experiences show similar adaptation patterns"
+      },
+      {
+        "id": "d",
+        "text": "There is no consistency in adaptation between positive and negative experiences"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "According to research, what percentage of variance in happiness levels do all circumstances combined account for?",
+    "options": [
+      {
+        "id": "a",
+        "text": "20% to 25%"
+      },
+      {
+        "id": "b",
+        "text": "Only 8% to 15%"
+      },
+      {
+        "id": "c",
+        "text": "30% to 40%"
+      },
+      {
+        "id": "d",
+        "text": "50% to 60%"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "What are the three types of intentional activities described by Lyubomirsky et al. (2005)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Behavioural, genetic, and volitional"
+      },
+      {
+        "id": "b",
+        "text": "Circumstantial, cognitive, and behavioural"
+      },
+      {
+        "id": "c",
+        "text": "Behavioural, cognitive, and volitional"
+      },
+      {
+        "id": "d",
+        "text": "Genetic, cognitive, and volitional"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W08-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 8,
+    "topic": "Hedonic Adaptation and Sustainable Happiness",
+    "questionText": "What is the basic idea of the Sustainable Happiness Model, according to Sheldon and Lyubomirsky (2019)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Genetics and life circumstances entirely determine happiness"
+      },
+      {
+        "id": "b",
+        "text": "Happiness is solely dependent on life circumstances"
+      },
+      {
+        "id": "c",
+        "text": "People can influence their own happiness by their intentional activities"
+      },
+      {
+        "id": "d",
+        "text": "Volitional activities have no impact on happiness"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "In the context of gratitude, which of the following is NOT correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gratitude facilitates coping with stress"
+      },
+      {
+        "id": "b",
+        "text": "Gratitude increases upward social comparison"
+      },
+      {
+        "id": "c",
+        "text": "Gratitude improves self-esteem"
+      },
+      {
+        "id": "d",
+        "text": "Gratitude enhances accessibility to positive memories"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "Keeping a gratitude journal means ---------------------.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Writing things for which one is grateful."
+      },
+      {
+        "id": "b",
+        "text": "Expressing gratitude to a person face-to-face"
+      },
+      {
+        "id": "c",
+        "text": "Expressing gratitude to a person by writing letters"
+      },
+      {
+        "id": "d",
+        "text": "All of these"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "Which of the following personality traits is incompatible with gratitude?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extrovert"
+      },
+      {
+        "id": "b",
+        "text": "Introvert"
+      },
+      {
+        "id": "c",
+        "text": "Neuroticism"
+      },
+      {
+        "id": "d",
+        "text": "Narcissism"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "Kindness satisfies the basic human need for \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "options": [
+      {
+        "id": "a",
+        "text": "Relatedness"
+      },
+      {
+        "id": "b",
+        "text": "Autonomy"
+      },
+      {
+        "id": "c",
+        "text": "Competence"
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "In the context of reciprocal altruism, when is kindness most likely to be demonstrated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In isolated situations"
+      },
+      {
+        "id": "b",
+        "text": "In one-time encounters"
+      },
+      {
+        "id": "c",
+        "text": "When individuals expect not to meet again"
+      },
+      {
+        "id": "d",
+        "text": "When individuals expect to meet again"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "What is essential for acts of kindness to bring maximum improvement in well-being?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Regular and planned acts of kindness"
+      },
+      {
+        "id": "b",
+        "text": "Acts of kindness done out of obligation"
+      },
+      {
+        "id": "c",
+        "text": "Freely and autonomously done acts of kindness"
+      },
+      {
+        "id": "d",
+        "text": "Forced acts of kindness"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "In the context of downward comparison, what does assimilation result in?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Negative self-evaluation"
+      },
+      {
+        "id": "b",
+        "text": "Positive self-evaluation"
+      },
+      {
+        "id": "c",
+        "text": "No change in self-evaluation"
+      },
+      {
+        "id": "d",
+        "text": "Avoidance of self-evaluation"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W09-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 9,
+    "topic": "Gratitude, Kindness and Social Comparison",
+    "questionText": "According to diverse research studies, what is the typical result of social comparison on social networking sites in terms of subjective well-being (SWB) or happiness?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Consistent increase in SWB or happiness."
+      },
+      {
+        "id": "b",
+        "text": "Typically results in decreases in SWB or happiness."
+      },
+      {
+        "id": "c",
+        "text": "No impact on SWB or happiness."
+      },
+      {
+        "id": "d",
+        "text": "Social comparison on SNSs always increases happiness."
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "According to Peterson & Seligman (2004), what inspired the development of the VIA Classification?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strength Finder"
+      },
+      {
+        "id": "b",
+        "text": "Gallup\u2019s Strengths"
+      },
+      {
+        "id": "c",
+        "text": "DSM"
+      },
+      {
+        "id": "d",
+        "text": "Weaknesses Classification"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "According to the VIA Classification, which virtue includes strengths that connect us to the larger universe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Justice"
+      },
+      {
+        "id": "b",
+        "text": "Humanity"
+      },
+      {
+        "id": "c",
+        "text": "Courage"
+      },
+      {
+        "id": "d",
+        "text": "Transcendence"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "According to the VIA Classification, what is a component of the virtue of Humanity that involves being aware of the motives and feelings of self and others?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Love"
+      },
+      {
+        "id": "b",
+        "text": "Social intelligence"
+      },
+      {
+        "id": "c",
+        "text": "Kindness"
+      },
+      {
+        "id": "d",
+        "text": "Leadership"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "What does research indicate about the strengths of the heart compared to the strengths of the head?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strengths of the head are more individualistic"
+      },
+      {
+        "id": "b",
+        "text": "Strengths of the heart are more strongly related to well-being"
+      },
+      {
+        "id": "c",
+        "text": "Strengths of the head are more strongly related to life satisfaction"
+      },
+      {
+        "id": "d",
+        "text": "Both strengths are equally related to well-being"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "According to Clifton and Anderson (2002), how do talents differ from skills and knowledge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Talents are acquired, while skills and knowledge are naturally occurring"
+      },
+      {
+        "id": "b",
+        "text": "Talents exist naturally within each of us, while skills and knowledge need to be acquired"
+      },
+      {
+        "id": "c",
+        "text": "Talents are more important than skills and knowledge"
+      },
+      {
+        "id": "d",
+        "text": "Talents are the combination of skills and knowledge"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "Under what conditions does the state of flow happen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "When tasks are easy and skills exceed challenges"
+      },
+      {
+        "id": "b",
+        "text": "When tasks are challenging and skills are irrelevant"
+      },
+      {
+        "id": "c",
+        "text": "When a task is high on challenge and skill levels"
+      },
+      {
+        "id": "d",
+        "text": "When tasks are irrelevant and no skills are required"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "What term is used to describe activities that can facilitate a flow experience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Autonomous"
+      },
+      {
+        "id": "b",
+        "text": "Autotelic"
+      },
+      {
+        "id": "c",
+        "text": "Automate"
+      },
+      {
+        "id": "d",
+        "text": "Autonomic"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W10-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 10,
+    "topic": "VIA Classification, Character Strengths and Flow",
+    "questionText": "What type of activities are less likely to be associated with flow experience?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sports and dancing"
+      },
+      {
+        "id": "b",
+        "text": "Creative arts and hobbies"
+      },
+      {
+        "id": "c",
+        "text": "Housework and watching TV"
+      },
+      {
+        "id": "d",
+        "text": "Socializing and studying"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "According to Maslow, what kind of need is self-actualization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Social need"
+      },
+      {
+        "id": "b",
+        "text": "Safety need"
+      },
+      {
+        "id": "c",
+        "text": "Being need"
+      },
+      {
+        "id": "d",
+        "text": "Deficiency need"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "According to Maslow, which of the following is an obstacle in achieving self-actualization?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lack of desire"
+      },
+      {
+        "id": "b",
+        "text": "Stuck in fulfilling lower needs"
+      },
+      {
+        "id": "c",
+        "text": "Societal conditions of worth"
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "According to Carl Rogers, which of the following is an obstacle to achieving our \u2018real self\u2019?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lack of desire"
+      },
+      {
+        "id": "b",
+        "text": "Stuck in fulfilling lower needs"
+      },
+      {
+        "id": "c",
+        "text": "Societal conditions of worth"
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "According to Carl Rogers, inconsistency between our real self and ideal self creates ......................",
+    "options": [
+      {
+        "id": "a",
+        "text": "Psychosis"
+      },
+      {
+        "id": "b",
+        "text": "Neurosis"
+      },
+      {
+        "id": "c",
+        "text": "Organismic valuing"
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "Which of the following theories explains human motivation based on the basic psychological need fulfillment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Organismic valuing theory"
+      },
+      {
+        "id": "b",
+        "text": "Functional descriptive model"
+      },
+      {
+        "id": "c",
+        "text": "PERMA model"
+      },
+      {
+        "id": "d",
+        "text": "Self-determination theory"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "A student generally completes school work independently, but only because of its value in gaining admission to college. This is an example of \u2026\u2026\u2026\u2026. type of extrinsic motivation.",
+    "options": [
+      {
+        "id": "a",
+        "text": "External regulation"
+      },
+      {
+        "id": "b",
+        "text": "Introjection"
+      },
+      {
+        "id": "c",
+        "text": "Identification"
+      },
+      {
+        "id": "d",
+        "text": "Integration"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "Which of the following can promote internalized forms of extrinsic motivation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Increased external pressure"
+      },
+      {
+        "id": "b",
+        "text": "Inflexible guidelines and regulations"
+      },
+      {
+        "id": "c",
+        "text": "Satisfaction of basic psychological needs"
+      },
+      {
+        "id": "d",
+        "text": "Strict punishment for non-compliance"
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W11-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 11,
+    "topic": "Self-Actualization and Self-Determination Theory",
+    "questionText": "Which of the following are internalized forms of extrinsic motivation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Amotivation and Introjection"
+      },
+      {
+        "id": "b",
+        "text": "Identification and integration"
+      },
+      {
+        "id": "c",
+        "text": "External regulation and controlled motivation"
+      },
+      {
+        "id": "d",
+        "text": "None of these"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q101",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "Which of the following is a motivational component of meaning in life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Coherence"
+      },
+      {
+        "id": "b",
+        "text": "Purpose"
+      },
+      {
+        "id": "c",
+        "text": "Significance"
+      },
+      {
+        "id": "d",
+        "text": "Mattering"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q102",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "\u2018Life has meaning under all circumstances, even the most miserable ones.\u2019 This statement is associated with ...........................",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cognitive therapy"
+      },
+      {
+        "id": "b",
+        "text": "Mindfulness-based therapy"
+      },
+      {
+        "id": "c",
+        "text": "Behavioral therapy"
+      },
+      {
+        "id": "d",
+        "text": "Logotherapy"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q103",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "How is significance or mattering defined in the context of meaning in life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A value-laden evaluation of daily activities"
+      },
+      {
+        "id": "b",
+        "text": "Worthwhileness and value of one\u2019s life"
+      },
+      {
+        "id": "c",
+        "text": "A measure of achievements and success"
+      },
+      {
+        "id": "d",
+        "text": "A focus on personal desires and wishes"
+      }
+    ],
+    "correctOption": "b",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q104",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "How do the dimensions of comprehension, purpose, and mattering influence each other?",
+    "options": [
+      {
+        "id": "a",
+        "text": "They have no mutual influence."
+      },
+      {
+        "id": "b",
+        "text": "A high level in one dimension leads to low levels in others."
+      },
+      {
+        "id": "c",
+        "text": "Low levels in one may lead to low levels in others, and vice versa."
+      },
+      {
+        "id": "d",
+        "text": "They have unpredictable relationships."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q105",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "What did Frankl believe is the last of human freedoms, even in the most challenging circumstances?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freedom to pursue material success"
+      },
+      {
+        "id": "b",
+        "text": "Freedom to avoid suffering"
+      },
+      {
+        "id": "c",
+        "text": "Freedom to achieve external goals"
+      },
+      {
+        "id": "d",
+        "text": "Freedom to choose one's attitude in any given circumstance"
+      }
+    ],
+    "correctOption": "d",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q106",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "What is one way Frankl suggested individuals can discover meaning in life?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Creating a work or doing a deed"
+      },
+      {
+        "id": "b",
+        "text": "Avoiding all forms of suffering"
+      },
+      {
+        "id": "c",
+        "text": "Pursuing external achievements only"
+      },
+      {
+        "id": "d",
+        "text": "Experiencing natural beauty without any action"
+      }
+    ],
+    "correctOption": "a",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q107",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "Why might satisfaction from extrinsic goals not last?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Extrinsic goals are inherently unsatisfying."
+      },
+      {
+        "id": "b",
+        "text": "People quickly adapt to extrinsic goals."
+      },
+      {
+        "id": "c",
+        "text": "Satisfaction from extrinsic goals is dependent on external factors."
+      },
+      {
+        "id": "d",
+        "text": "Extrinsic goals are not valued by one's culture."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  },
+  {
+    "id": "PSY-W12-Q108",
+    "courseId": "psy-stress-health",
+    "courseName": "Psychology of Stress, Health and Well-Being",
+    "week": 12,
+    "topic": "Meaning in Life and Intrinsic Goals",
+    "questionText": "How do intrinsic goals differ from extrinsic goals in terms of their relationship to cultural beliefs and norms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Both intrinsic and extrinsic goals are strongly shaped by cultural beliefs and norms."
+      },
+      {
+        "id": "b",
+        "text": "Intrinsic goals are more influenced by cultural beliefs, while extrinsic goals are less influenced by cultural beliefs and norms."
+      },
+      {
+        "id": "c",
+        "text": "Extrinsic goals are strongly shaped by cultural beliefs and norms, while intrinsic goals emerge from natural growth tendencies."
+      },
+      {
+        "id": "d",
+        "text": "Cultural beliefs have no impact on the content of either intrinsic or extrinsic goals."
+      }
+    ],
+    "correctOption": "c",
+    "sourceType": "weekly_quiz",
+    "explanation": "Explanation not provided in source document."
+  }
+]

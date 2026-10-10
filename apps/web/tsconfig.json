@@ -1,0 +1,16 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "jsx": "react-jsx",
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "noEmit": true,
+    "composite": false
+  },
+  "include": ["src"],
+  "references": [
+    { "path": "../../packages/question-schema" },
+    { "path": "../../packages/quiz-core" }
+  ]
+}

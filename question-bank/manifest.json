@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-10",
+  "totalQuestions": 96,
+  "courses": [
+    {
+      "id": "psy-stress-health",
+      "name": "Psychology of Stress, Health and Well-Being",
+      "description": "Explores the psychological aspects of stress, health behaviors, and well-being across the lifespan.",
+      "instructor": "Prof. Manas Ranjan Pradhan",
+      "totalQuestions": 96,
+      "pyqCount": 0,
+      "weeklyQuizCount": 12,
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Stress and Coping",
+          "questionCount": 8
+        },
+        {
+          "week": 2,
+          "title": "Stress, Health and Immunity",
+          "questionCount": 8
+        },
+        {
+          "week": 3,
+          "title": "Posttraumatic Growth, Coping and Hardiness",
+          "questionCount": 8
+        },
+        {
+          "week": 4,
+          "title": "Coping Strategies and Defense Mechanisms",
+          "questionCount": 8
+        },
+        {
+          "week": 5,
+          "title": "Stress Management and Mindfulness",
+          "questionCount": 8
+        },
+        {
+          "week": 6,
+          "title": "General",
+          "questionCount": 8
+        },
+        {
+          "week": 7,
+          "title": "Happiness and Subjective Well-Being",
+          "questionCount": 8
+        },
+        {
+          "week": 8,
+          "title": "Hedonic Adaptation and Sustainable Happiness",
+          "questionCount": 8
+        },
+        {
+          "week": 9,
+          "title": "Gratitude, Kindness and Social Comparison",
+          "questionCount": 8
+        },
+        {
+          "week": 10,
+          "title": "VIA Classification, Character Strengths and Flow",
+          "questionCount": 8
+        },
+        {
+          "week": 11,
+          "title": "Self-Actualization and Self-Determination Theory",
+          "questionCount": 8
+        },
+        {
+          "week": 12,
+          "title": "Meaning in Life and Intrinsic Goals",
+          "questionCount": 8
+        }
+      ],
+      "tags": [
+        "psychology",
+        "health",
+        "well-being",
+        "stress"
+      ],
+      "questionFile": "courses/psy-stress-health.json"
+    }
+  ]
+}

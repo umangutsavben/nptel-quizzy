@@ -1,0 +1,26 @@
+{
+  "name": "nptel-quiz-prep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NPTEL MCQ practice platform — website and Android app",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev -w apps/web",
+    "dev:mobile": "npm run start -w @nptel-quiz/mobile",
+    "build:web": "npm run build -w apps/web",
+    "preview:web": "npm run preview -w apps/web",
+    "test": "npm run test -w packages/quiz-core && npm run test -w packages/question-schema",
+    "test:core": "npm run test -w packages/quiz-core",
+    "test:schema": "npm run test -w packages/question-schema",
+    "validate:questions": "node scripts/validate-questions.mjs",
+    "typecheck": "tsc --build",
+    "lint": "eslint .",
+    "clean": "rm -rf node_modules apps/*/node_modules packages/*/node_modules apps/*/dist packages/*/dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
