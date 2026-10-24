@@ -1,0 +1,1379 @@
+================================================================================
+NPTEL QUIZ QUESTIONS AND ANSWERS
+Weeks 1-12: Stress and Well-being Course
+================================================================================
+
+WEEK 1
+================================================================================
+
+1) Which of the following statements aligns with the contemporary view of stress?
+
+   Options:
+   - Stress is primarily a physiological response
+   - Stress is a subjective phenomenon dependent on individual appraisals
+   - Stress is caused solely by external environmental factors
+   - Stress is a non-specific response of the body
+
+   CORRECT: Stress is a subjective phenomenon dependent on individual appraisals
+
+
+2) Which of the following is NOT a possible way an event can be appraised during primary appraisal?
+
+   Options:
+   - Irrelevant
+   - Relevant but not threatening
+   - Stressful
+   - Coping
+
+   CORRECT: Coping
+
+
+3) What type of appraisal is future-oriented and involves the possibility of harm or loss?
+
+   Options:
+   - Harm-loss appraisal
+   - Threat appraisal
+   - Challenge appraisal
+   - Secondary appraisal
+
+   CORRECT: Threat appraisal
+
+
+4) What is the relationship between reappraisal and earlier appraisals?
+
+   Options:
+   - Reappraisal replaces earlier appraisals entirely
+   - Reappraisal modifies earlier appraisals based on new information
+   - Reappraisal is unrelated to earlier appraisals
+   - Reappraisal only occurs before primary appraisal
+
+   CORRECT: Reappraisal modifies earlier appraisals based on new information
+
+
+5) What is the role of cultural norms in stress perception?
+
+   Options:
+   - Cultural norms have no influence on stress
+   - Cultural norms only affect physical health
+   - Cultural norms can shape how individuals appraise and experience stress
+   - Cultural norms eliminate stress entirely
+
+   CORRECT: Cultural norms can shape how individuals appraise and experience stress
+
+
+6) Choosing between surgery and radiation treatment for cancer is an example of:
+
+   Options:
+   - Approach-approach
+   - Approach-avoidance
+   - Avoidance-avoidance
+   - Conflict
+   - None of these
+
+   CORRECT: Avoidance-avoidance
+
+
+7) What is the term used to describe diseases that may result from prolonged stress, according to General Adaptation?
+
+   Options:
+   - Diseases of adaptation
+   - Diseases of resistance
+   - Diseases of exhaustion
+   - Diseases of alarm
+
+   CORRECT: Diseases of adaptation
+
+
+8) What is the primary function of the SAM system during stress?
+
+   Options:
+   - To release cortisol for long-term stress
+   - To increase heart rate, blood pressure, and energy for immediate action
+   - To promote relaxation and digestion
+   - To reduce the body's resistance to stress
+
+   CORRECT: To increase heart rate, blood pressure, and energy for immediate action
+
+
+9) Which system is responsible for coping with chronic stress?
+
+   Options:
+   - SAM system
+   - Somatic nervous system
+   - Sympathetic nervous system
+   - HPA system
+
+   CORRECT: HPA system
+
+
+10) What is the role of oxytocin in the tend-and-befriend response?
+
+    Options:
+    - It increases heart rate and blood pressure
+    - It promotes relaxation, reduces anxiety, and encourages bonding behavior
+    - It enhances memory and learning
+    - It increases the release of cortisol
+
+    CORRECT: It promotes relaxation, reduces anxiety, and encourages bonding behavior
+
+
+================================================================================
+WEEK 2
+================================================================================
+
+1) How does chronic stress contribute to the development of atherosclerosis?
+
+   Options:
+   - By increasing the production of red blood cells, leading to thicker blood
+   - By promoting the build-up of fatty plaques in arterial walls through elevated cortisol and adrenaline levels
+   - By reducing the heart's ability to pump blood efficiently
+   - By causing inflammation of the heart muscle
+
+   CORRECT: By promoting the build-up of fatty plaques in arterial walls through elevated cortisol and adrenaline levels
+
+
+2) How does Broken Heart Syndrome differ from a heart attack?
+
+   Options:
+   - Broken Heart Syndrome is caused by blocked arteries, while a heart attack is caused by stress hormones
+   - Broken Heart Syndrome shows no evidence of blocked coronary arteries, unlike a heart attack
+   - Broken Heart Syndrome is a chronic condition, while a heart attack is an acute event
+   - Broken Heart Syndrome only occurs in men, while heart attacks are more common in women
+
+   CORRECT: Broken Heart Syndrome shows no evidence of blocked coronary arteries, unlike a heart attack
+
+
+3) Which of the following statements about Broken Heart Syndrome is TRUE?
+
+   Options:
+   - It only occurs in individuals with pre-existing heart conditions
+   - It is caused by long-term exposure to low levels of stress
+   - It is more common in men than in women
+   - It can occur in healthy individuals with no history of heart disease
+
+   CORRECT: It can occur in healthy individuals with no history of heart disease
+
+
+4) How can excess cholesterol caused by stress contribute to cardiovascular diseases?
+
+   Options:
+   - By accumulating as fats in the arteries, leading to blockages and heart attacks
+   - By improving blood flow and oxygen supply to the heart
+   - By increasing the production of red blood cells, thickening the blood
+   - By reducing the heart's ability to pump blood efficiently
+
+   CORRECT: By accumulating as fats in the arteries, leading to blockages and heart attacks
+
+
+5) Which aspect of Type A behavior is considered the most significant risk factor for coronary heart disease (CHD) according to later research?
+
+   Options:
+   - Excessive competitiveness
+   - Time urgency
+   - Anger and hostility
+   - Achievement orientation
+
+   CORRECT: Anger and hostility
+
+
+6) What does the biphasic model proposed by Dhabhar and McEwen (1997, 2001) suggest about stress and immune response?
+
+   Options:
+   - Both acute and chronic stress enhance immune function
+   - Acute stress enhances immune function, while chronic stress suppresses it
+   - Acute stress suppresses immune function, while chronic stress enhances it
+   - Both acute and chronic stress suppress immune function
+
+   CORRECT: Acute stress enhances immune function, while chronic stress suppresses it
+
+
+7) According to Segerstrom and Miller's (2004) meta-analysis, which of the following chronic stressors was found to have negative effects on almost all functional measures of the immune system?
+
+   Options:
+   - Acute time-limited stressors like public speaking
+   - Focal stressful events like natural disasters
+   - Chronic stressors like caregiving for dementia patients or unemployment
+   - Short-term stressors like exam periods
+
+   CORRECT: Chronic stressors like caregiving for dementia patients or unemployment
+
+
+8) What is the primary difference between Acute Stress Disorder (ASD) and Posttraumatic Stress Disorder (PTSD)?
+
+   Options:
+   - ASD lasts longer than a month, while PTSD lasts less than a month
+   - ASD lasts less than a month, while PTSD lasts longer than a month
+   - ASD is caused by chronic stress, while PTSD is caused by acute stress
+   - ASD is not related to traumatic events, while PTSD is
+
+   CORRECT: ASD lasts less than a month, while PTSD lasts longer than a month
+
+
+9) Which of the following is a trauma-related arousal and reactivity symptom of PTSD?
+
+   Options:
+   - Overly negative thoughts about oneself
+   - Difficulty experiencing positive affect
+   - Hypervigilance
+   - Feeling isolated
+
+   CORRECT: Hypervigilance
+
+
+10) Which of the following is a symptom of Complex PTSD (C-PTSD) that is not typically seen in standard PTSD?
+
+    Options:
+    - Emotional dysregulation and disturbances in self-identity
+    - Avoidance of trauma-related stimuli
+    - Hypervigilance and heightened startle response
+
+    CORRECT: Emotional dysregulation and disturbances in self-identity
+
+
+================================================================================
+WEEK 3
+================================================================================
+
+1) Which of the following is NOT a typical outcome of PTG?
+
+   Options:
+   - Improved relationships with others
+   - Enhanced personal strength
+   - A sense of vulnerability and helplessness
+   - Greater appreciation for life
+
+   CORRECT: A sense of vulnerability and helplessness
+
+
+2) According to Tedeschi and Calhoun (2004), what is a key distinction between Posttraumatic Growth (PTG) and resilience?
+
+   Options:
+   - PTG involves returning to baseline functioning, while resilience involves significant personal improvement
+   - PTG emphasizes stability after trauma, while resilience emphasizes transformation
+   - PTG involves profound personal improvement, while resilience involves returning to baseline functioning
+   - PTG and resilience are identical concepts, with no meaningful differences
+
+   CORRECT: PTG involves profound personal improvement, while resilience involves returning to baseline functioning
+
+
+3) What is the relationship between PTG and distress?
+
+   Options:
+   - PTG cannot occur if distress is present
+   - PTG and distress can coexist simultaneously
+   - Distress must be completely resolved before PTG can occur
+   - Distress is a necessary precondition for PTG but disappears once growth is achieved
+
+   CORRECT: PTG and distress can coexist simultaneously
+
+
+4) What is the key difference between automatic ruminative thoughts and reflective thoughts?
+
+   Options:
+   - Automatic ruminative thoughts are deliberate, while reflective thoughts are unconscious
+   - Automatic ruminative thoughts are intrusive and distressing, while reflective thoughts are conscious and deliberate
+   - Reflective thoughts are unrelated to the trauma
+   - Automatic ruminative thoughts lead directly to PTG without any cognitive processing
+
+   CORRECT: Automatic ruminative thoughts are intrusive and distressing, while reflective thoughts are conscious and deliberate
+
+
+5) What is the role of self-disclosure in the process of PTG, according to Tedeschi and Calhoun (2004)?
+
+   Options:
+   - It prevents the occurrence of trauma
+   - It supports growth by reducing emotional distress and facilitating cognitive processing
+   - It ensures a return to pre-trauma assumptions and beliefs
+   - It eliminates the need for social support
+
+   CORRECT: It supports growth by reducing emotional distress and facilitating cognitive processing
+
+
+6) What is the relationship between PTG and wisdom, according to Tedeschi and Calhoun (2004)?
+
+   Options:
+   - PTG and wisdom are entirely unrelated concepts
+   - Domains of PTG are aspects of wisdom, and PTG is equated with the development of wisdom
+   - Wisdom prevents the occurrence of PTG
+   - PTG is a broader concept than wisdom
+
+   CORRECT: Domains of PTG are aspects of wisdom, and PTG is equated with the development of wisdom
+
+
+7) According to Tedeschi and Calhoun (2006), what is the key difference between an expert companion and a prescriptive therapist?
+
+   Options:
+   - An expert companion prescribes specific strategies for achieving PTG, while a therapist does not
+   - An expert companion facilitates PTG through empathic listening, while a prescriptive therapist provides direct solutions
+   - An expert companion eliminates all forms of distress, while a therapist focuses on narrative development
+   - An expert companion ensures a return to pre-trauma functioning, while a therapist focuses on emotion regulation
+
+   CORRECT: An expert companion facilitates PTG through empathic listening, while a prescriptive therapist provides direct solutions
+
+
+8) What was the primary finding of Maddi and Kobasa's longitudinal study on Illinois Bell Telephone employees?
+
+   Options:
+   - All employees experienced a decline in performance and health after deregulation
+   - Psychological hardiness differentiated employees who thrived from those who collapsed under stress
+   - Hardiness had no impact on stress responses or performance
+   - Employees with Type A personality traits were more likely to thrive
+
+   CORRECT: Psychological hardiness differentiated employees who thrived from those who collapsed under stress
+
+
+9) Which of the following is an example of internal, stable, uncontrollable factor?
+
+   Options:
+   - Hard work
+   - Ability
+   - Luck
+   - Task characteristics
+
+   CORRECT: Ability
+
+
+10) According to Weiner's theory, what is the impact of attributing failure to an internal, stable, uncontrollable factor?
+
+    Options:
+    - Increased motivation and persistence
+    - Low expectancy of future success
+    - Positive anticipation and hopefulness
+    - A sense of control over future outcomes
+
+    CORRECT: Low expectancy of future success
+
+
+================================================================================
+WEEK 4
+================================================================================
+
+1) Which of the following behaviors can serve either a problem-focused or emotion-focused function, depending on the goal?
+
+   Options:
+   - Rumination
+   - Avoidance
+   - Seeking social support
+   - Denial
+
+   CORRECT: Seeking social support
+
+
+2) Which part of the mind, according to Freud, is the largest and most influential in shaping behavior?
+
+   Options:
+   - Conscious mind
+   - Preconscious/subconscious mind
+   - Unconscious mind
+   - Ego
+
+   CORRECT: Unconscious mind
+
+
+3) What might happen if the ID is overly dominant in a person's personality?
+
+   Options:
+   - The person may become overly moralistic and judgmental
+   - The person may become highly impulsive and engage in inappropriate behavior
+   - The person may develop a strong sense of reality and rationality
+   - The person may repress all unconscious desires
+
+   CORRECT: The person may become highly impulsive and engage in inappropriate behavior
+
+
+4) What is the key difference between repression and suppression?
+
+   Options:
+   - Repression is conscious, while suppression is unconscious
+   - Repression is unconscious, while suppression is conscious
+   - Repression involves rationalizing feelings, while suppression involves denying reality
+   - Repression is a mature defense mechanism, while suppression is immature
+
+   CORRECT: Repression is unconscious, while suppression is conscious
+
+
+5) Which of the following is a mature defense mechanism?
+
+   Options:
+   - Denial
+   - Projection
+   - Sublimation
+   - Displacement
+
+   CORRECT: Sublimation
+
+
+6) What is an example of regression as a defense mechanism?
+
+   Options:
+   - A person blaming others for their failure
+   - An adult throwing a tantrum when frustrated
+   - A person focusing on the intellectual aspects of a traumatic event
+   - A person expressing exaggerated sadness for someone they disliked
+
+   CORRECT: An adult throwing a tantrum when frustrated
+
+
+7) Which of the following statements is true about defense mechanisms?
+
+   Options:
+   - They are always conscious and intentional
+   - They can be both adaptive and pathological, depending on the context
+   - They are only used by individuals with psychological disorders
+   - They eliminate the source of anxiety rather than distorting reality
+
+   CORRECT: They can be both adaptive and pathological, depending on the context
+
+
+8) Which coping strategy is most appropriate for an unchangeable stressor?
+
+   Options:
+   - Problem-focused coping
+   - Emotion-focused coping
+   - Avoidance coping
+   - Rationalization
+
+   CORRECT: Emotion-focused coping
+
+
+9) What is one of the primary physiological effects of exercise that helps reduce stress?
+
+   Options:
+   - Increase in cortisol levels
+   - Release of endorphins, which act as painkillers and enhance mood
+   - Decrease in hypothalamic temperature
+   - Increase in brain cortical activity
+
+   CORRECT: Release of endorphins, which act as painkillers and enhance mood
+
+
+10) Which of the following is an example of learned helplessness in humans?
+
+    Options:
+    - A student studying hard to improve their grades
+    - A person giving up on job applications after repeated rejections
+    - An individual seeking therapy to address their anxiety
+    - A person practicing mindfulness to reduce stress
+
+    CORRECT: A person giving up on job applications after repeated rejections
+
+
+================================================================================
+WEEK 5
+================================================================================
+
+1) What is the effect of slow, deep breathing on the nervous system?
+
+   Options:
+   - It activates the sympathetic nervous system
+   - It activates the parasympathetic nervous system, inducing relaxation
+   - It increases stress and anxiety levels
+   - It has no effect on the nervous system
+
+   CORRECT: It activates the parasympathetic nervous system, inducing relaxation
+
+
+2) Which group of individuals might particularly benefit from Progressive Muscle Relaxation?
+
+   Options:
+   - Athletes looking to improve endurance
+   - People with cardiovascular disease
+   - Individuals experiencing stress, anxiety, or insomnia
+   - Children needing to build muscle strength
+
+   CORRECT: Individuals experiencing stress, anxiety, or insomnia
+
+
+3) Which of the following best illustrates the sequence in Ellis's ABC theory?
+
+   Options:
+   - Activating event -> Emotional consequences -> Beliefs
+   - Beliefs -> Emotional consequences -> Activating event
+   - Activating event -> Beliefs -> Emotional consequences
+   - Emotional consequences -> Activating event -> Beliefs
+
+   CORRECT: Activating event -> Beliefs -> Emotional consequences
+
+
+4) What is the purpose of disputing irrational beliefs in Ellis's model?
+
+   Options:
+   - To avoid activating events in the future
+   - To replace irrational beliefs with rational beliefs
+   - To eliminate all emotional consequences
+   - To suppress negative emotions
+
+   CORRECT: To replace irrational beliefs with rational beliefs
+
+
+5) What did the research reveal about social relationships and survival rates?
+
+   Options:
+   - Social relationships have no impact on survival
+   - Individuals with stronger social relationships have a 50% greater likelihood of survival compared to those with weak relationships
+   - Social relationships only benefit mental health, not physical health
+   - Social relationships are less important than lifestyle factors like diet and exercise
+
+   CORRECT: Individuals with stronger social relationships have a 50% greater likelihood of survival compared to those with weak relationships
+
+
+6) What is the key takeaway from the studies on social support and health outcomes?
+
+   Options:
+   - Strong social relationships are linked to better survival rates and improved health outcomes
+   - Social support is only beneficial for mental health, not physical health
+   - Social support has no significant impact on health behaviors
+   - Social support is less important than genetic factors in determining health outcomes
+
+   CORRECT: Strong social relationships are linked to better survival rates and improved health outcomes
+
+
+7) Which hypothesis suggests that social support is beneficial regardless of stress levels?
+
+   Options:
+   - Direct effects hypothesis
+   - Buffering hypothesis
+   - Stress amplification hypothesis
+   - Resilience hypothesis
+
+   CORRECT: Direct effects hypothesis
+
+
+8) Which hypothesis would more specifically explain the benefits of social support for someone experiencing a major life crisis?
+
+   Options:
+   - Direct effects hypothesis
+   - Buffering hypothesis
+   - Stress amplification hypothesis
+   - Resilience hypothesis
+
+   CORRECT: Buffering hypothesis
+
+
+9) What is the ultimate goal of mindfulness/insight meditation?
+
+   Options:
+   - To develop a non-reactive state of mind
+   - To achieve complete mental silence by eliminating all thoughts
+   - To focus on a single object to achieve relaxation
+   - To practice physical postures to improve health
+
+   CORRECT: To develop a non-reactive state of mind
+
+
+10) What is the meta-mechanism that leads to other positive effects of mindfulness?
+
+    Options:
+    - Reperceiving
+    - Self-regulation
+    - Values clarification
+    - Exposure
+
+    CORRECT: Reperceiving
+
+
+================================================================================
+WEEK 6
+================================================================================
+
+1) Why is mental health often misunderstood as a luxury rather than a fundamental aspect of health?
+
+   Options:
+   - Because mental health conditions are rare and do not affect many people
+   - Because mental health is only relevant for individuals with diagnosed illnesses
+   - Because society often prioritizes physical health and overlooks the broader concept of mental well-being
+   - Because mental health is not included in the WHO's definition of health
+
+   CORRECT: Because society often prioritizes physical health and overlooks the broader concept of mental well-being
+
+
+2) Which philosopher is associated with the promotion of eudaimonism?
+
+   Options:
+   - Aristippus
+   - Bentham
+   - Hobbes
+   - Aristotle
+
+   CORRECT: Aristotle
+
+
+3) According to Steger and Shin (2012), which part of the brain is associated with hedonic processes?
+
+   Options:
+   - The newer, complex cerebral part of the brain
+   - The older subcortical part of the brain
+   - The prefrontal cortex
+   - The limbic system exclusively
+
+   CORRECT: The older subcortical part of the brain
+
+
+4) What is the key takeaway from Huta's (2015) statement about hedonia and eudaimonia?
+
+   Options:
+   - Individuals should prioritize hedonia over eudaimonia for optimal well-being
+   - Hedonia and eudaimonia are opposing forces that must be balanced
+   - Both hedonia and eudaimonia are necessary for flourishing, and they can coexist
+   - Eudaimonia is irrelevant in modern psychological studies of well-being
+
+   CORRECT: Both hedonia and eudaimonia are necessary for flourishing, and they can coexist
+
+
+5) Which of the following activity is most aligned with eudaimonic well-being?
+
+   Options:
+   - Indulging in a luxury vacation
+   - Helping others through volunteer work
+   - Watching entertaining movies all day
+   - Winning a financial lottery
+
+   CORRECT: Helping others through volunteer work
+
+
+6) How is happiness conceptualized in terms of "affect balance"?
+
+   Options:
+   - As an integrative, evaluative assessment of one's life as a whole
+   - As having more pleasant than unpleasant emotional states
+   - As the pursuit of meaningful goals and self-actualization
+   - As the absence of any emotional experiences
+
+   CORRECT: As having more pleasant than unpleasant emotional states
+
+
+7) According to Keyes, what characterizes individuals in "moderate mental health"?
+
+   Options:
+   - They exhibit high levels of subjective well-being but low levels of psychological functioning
+   - They are neither flourishing nor languishing
+   - They have low levels of subjective well-being but high levels of social functioning
+   - They are focused solely on emotional well-being
+
+   CORRECT: They are neither flourishing nor languishing
+
+
+8) What are the two defining aspects of resilience?
+
+   Options:
+   - Exposure to significant threat or adversity and achievement of positive adaptation despite it
+   - Exposure to minor challenges and avoidance of adversity
+   - The ability to resist trauma and the absence of emotional responses
+   - The presence of positive emotions and the absence of negative emotions
+
+   CORRECT: Exposure to significant threat or adversity and achievement of positive adaptation despite it
+
+
+9) What is the primary focus of Martin Seligman's PERMA model of well-being?
+
+   Options:
+   - To measure only hedonic well-being
+   - To focus exclusively on eudaimonic well-being
+   - To combine both hedonic and eudaimonic components of well-being
+   - To eliminate the concept of well-being altogether
+
+   CORRECT: To combine both hedonic and eudaimonic components of well-being
+
+
+10) Which component of the PERMA model refers to "finding flow" in activities?
+
+    Options:
+    - Positive emotions
+    - Engagement
+    - Relationships
+    - Meaning
+
+    CORRECT: Engagement
+
+
+================================================================================
+WEEK 7
+================================================================================
+
+1) According to Professor Ed Diener, what are the components of subjective well-being?
+
+   Options:
+   - Life satisfaction and positive emotions only
+   - Life satisfaction, positive emotions, and low negative emotions
+   - Positive emotions and negative emotions only
+   - Life satisfaction and negative emotions only
+
+   CORRECT: Life satisfaction, positive emotions, and low negative emotions
+
+
+2) "At a point in time both among and within nations, happiness varies directly with income, but over time (in the long term), happiness does not increase when a country's income increases". This is known as?
+
+   Options:
+   - Happiness U curve
+   - Easterlin paradox
+   - Objective-subjective discrepancy
+   - Theory of adaptation
+
+   CORRECT: Easterlin paradox
+
+
+3) Why is life-satisfaction considered the most appropriate policy goal, according to Veenhoven?
+
+   Options:
+   - Because it is easier to measure than other forms of satisfaction
+   - Because life satisfaction is more valuable and enduring than passing or part-satisfaction
+   - Because it focuses on external living conditions rather than inner abilities
+   - Because it is emphasized by moral advisors and therapists
+
+   CORRECT: Because life satisfaction is more valuable and enduring than passing or part-satisfaction
+
+
+4) According to Wilson and Gilbert (2005), what do people generally mis-predict about future events?
+
+   Options:
+   - Whether the event will be pleasant or unpleasant
+   - The intensity and duration of their emotional reactions
+   - The likelihood of the event occurring
+   - The impact of the event on their decision-making
+
+   CORRECT: The intensity and duration of their emotional reactions
+
+
+5) How does making sense of novel or unexpected events influence emotional reactions?
+
+   Options:
+   - It increases the intensity and duration of emotional reactions
+   - It reduces the intensity and duration of emotional reactions
+   - It has no effect on emotional reactions
+   - It makes emotional reactions more unpredictable
+
+   CORRECT: It reduces the intensity and duration of emotional reactions
+
+
+6) What is the primary consequence of impact bias on decision-making?
+
+   Options:
+   - It leads to more balanced and rational decisions
+   - It results in mistaken projections and potentially irrational decisions
+   - It eliminates the need for emotional forecasting
+   - It ensures that people learn from past experiences
+
+   CORRECT: It results in mistaken projections and potentially irrational decisions
+
+
+7) What does the social comparison theory suggest about happiness and income?
+
+   Options:
+   - Happiness is determined by absolute income levels
+   - Happiness is influenced by relative income
+   - Happiness increases linearly with income over time
+   - Happiness is unaffected by income levels
+
+   CORRECT: Happiness is influenced by relative income
+
+
+8) What is the general trend in happiness during middle age, according to the happiness U curve?
+
+   Options:
+   - Happiness peaks during middle age
+   - Happiness is at its lowest during middle age
+   - Happiness remains unchanged during middle age
+   - Happiness decreases sharply after middle age
+
+   CORRECT: Happiness is at its lowest during middle age
+
+
+9) According to Fredrickson and Lasoda (2005), psychological well-being generally requires the ratio of positive emotions to negative emotions as?
+
+   Options:
+   - 2:1
+   - 3:1
+   - 1:2
+   - 3:3
+
+   CORRECT: 3:1
+
+
+10) How might positive emotions protect physical health, according to Fredrickson?
+
+    Options:
+    - By eliminating all physical ailments
+    - By undoing the harmful physiological effects of negative emotions
+    - By increasing the frequency of negative emotions
+    - By reducing the need for medical interventions
+
+    CORRECT: By undoing the harmful physiological effects of negative emotions
+
+
+================================================================================
+WEEK 8
+================================================================================
+
+1) What do twin studies suggest about the heritability of happiness?
+
+   Options:
+   - Identical twins report more similar levels of happiness than fraternal twins, even when raised apart
+   - Fraternal twins report more similar levels of happiness
+   - Identical twins report more similar levels of happiness
+   - Twin studies show no evidence of heritability in happiness
+   - Happiness is entirely determined by environmental factors
+
+   CORRECT: Identical twins report more similar levels of happiness than fraternal twins, even when raised apart
+
+
+2) Which of the following is a function of hedonic adaptation?
+
+   Options:
+   - It increases emotional reactions to life events
+   - It protects individuals from prolonged emotional states
+   - It prevents individuals from adapting to new environments
+   - It eliminates the need for emotional regulation
+
+   CORRECT: It protects individuals from prolonged emotional states
+
+
+3) Which step in the AREA model determines the rate of adaptation?
+
+   Options:
+   - Attending
+   - Reacting
+   - Explaining
+   - Adapting
+
+   CORRECT: Explaining
+
+
+4) How does hedonic adaptation to positive events compare to adaptation to negative events?
+
+   Options:
+   - Adaptation to positive events is slower and less complete
+   - Adaptation to positive events is faster and more complete
+   - There is no difference in adaptation between positive and negative events
+   - Positive events have no impact on long-term happiness
+   - Adaptation to negative events is faster than adaptation to positive events
+
+   CORRECT: Adaptation to positive events is faster and more complete
+
+
+5) What does the research on hedonic adaptation suggest about the pursuit of happiness?
+
+   Options:
+   - Happiness can be permanently increased through positive life events
+   - Hedonic adaptation to positive events may be an obstacle in the pursuit of happiness
+   - Negative events have no impact on long-term happiness
+   - Adaptation to negative events is faster than adaptation to positive events
+
+   CORRECT: Hedonic adaptation to positive events may be an obstacle in the pursuit of happiness
+
+
+6) Why do life circumstances account for a small percentage of happiness variance?
+
+   Options:
+   - Because life circumstances are not important for happiness
+   - Because people adapt to life circumstances through hedonic adaptation
+   - Because life circumstances are random and unrelated
+   - Because life circumstances are too difficult to measure
+
+   CORRECT: Because people adapt to life circumstances through hedonic adaptation
+
+
+7) What is the main reason intentional activities are considered the most promising avenue for increasing happiness?
+
+   Options:
+   - They are entirely determined by genetics
+   - They are more controllable
+   - They account for 50% of happiness variance
+   - They require no conscious effort
+
+   CORRECT: They are more controllable
+
+
+8) Which of the following is NOT a type of intentional activity described by Lyubomirsky et al. (2005)?
+
+   Options:
+   - Behavioral
+   - Cognitive
+   - Environmental
+   - Volitional
+
+   CORRECT: Environmental
+
+
+9) Why are intentional activities less likely to lead to hedonic adaptation compared to life circumstances?
+
+   Options:
+   - Because they are chronic and permanent
+   - Because they are transient, episodic, and can be varied
+   - Because they are entirely outside of our control
+   - Because they are genetically determined
+
+   CORRECT: Because they are transient, episodic, and can be varied
+
+
+10) What is the primary focus of Positive Activity Interventions (PAIs)?
+
+    Options:
+    - Directly fixing negative emotions and behaviors
+    - Promoting positive emotions, thoughts, and behaviors
+    - Eliminating the need for intentional activities
+    - Focusing solely on life circumstances
+
+    CORRECT: Promoting positive emotions, thoughts, and behaviors
+
+
+================================================================================
+WEEK 9
+================================================================================
+
+[Note: These questions cover EDM/EBM machining]
+
+1) The spark gap in the EDM (Electrical discharge machining) process is maintained such that:
+
+   Options:
+   - The gap voltage is around 99% of the supply voltage
+   - The gap voltage is around 70% of the supply voltage
+   - The gap voltage is around 50% of the supply voltage
+   - The gap voltage is around 10% of the supply voltage
+
+   CORRECT: The gap voltage is around 10% of the supply voltage
+
+
+2) What are the advantages of using Electrical Discharge Machining?
+
+   Options (Checkbox format):
+   - No direct contact between the tool and the workpiece
+   - High specific energy consumption (about 50 times that in conventional machining)
+   - Ability to machine complex shapes and fine details
+   - No mechanical stresses
+
+   CORRECT: High specific energy consumption (about 50 times that in conventional machining) AND No mechanical stresses
+
+
+3) In Electrical Discharge Machining (EDM), how does the spark gap affect the Material Removal Rate (MRR)?
+
+   Options:
+   - Increasing the spark gap significantly increases the MRR due to higher energy discharges
+   - A smaller spark gap leads to a higher MRR due to more frequent discharges
+   - The spark gap does not impact the MRR; it is determined solely by the machine's power settings
+   - Optimal MRR is achieved at an intermediate spark gap, balancing discharge energy and frequency
+
+   CORRECT: The spark gap does not impact the MRR; it is determined solely by the machine's power settings
+
+
+4) What does MRR stand for in EDM, and what factors predominantly affect it?
+
+   Options:
+   - Material Removal Rate; affected by spark energy and pulse duration
+   - Material Removal Rate; affected by the power supply and electrode type
+   - Material resistance rating; affected by workpiece material and coolant
+   - Machine response rate; affected by the control system and servo mechanism
+
+   CORRECT (Marked Option): Machine response rate; affected by the control system and servo mechanism
+
+
+5) What parameter primarily determines the time constant in an RC relaxation circuit?
+
+   Options:
+   - The resistance value only
+   - The capacitance value only
+   - Both the resistance and the capacitance values
+   - Neither resistance nor capacitance values
+
+   CORRECT: Both the resistance and the capacitance values
+
+
+6) Electron beam machining is carried out in:
+
+   Options:
+   - A high-pressure vessel
+   - A thermally insulated area
+   - A vacuum
+   - A room at atmospheric pressure
+
+   CORRECT: A vacuum
+
+
+7) As the electrons strike the work material:
+
+   Options:
+   - Heat energy is converted to kinetic energy
+   - Atomic energy is converted to heat energy
+   - Kinetic energy is converted to heat energy
+   - Electrical energy is converted to heat energy
+
+   CORRECT: Kinetic energy is converted to heat energy
+
+
+8) Which materials are not machined by the EBM process?
+
+   Options:
+   - Titanium
+   - Wood
+   - Plastic
+   - Leather
+
+   CORRECT: Wood
+
+
+9) Preferable tool properties in EDM are:
+
+   Options:
+   - High electrical conductivity, low thermal conductivity
+   - Low electrical conductivity, High thermal conductivity
+   - High electrical conductivity, High thermal conductivity
+   - Low electrical conductivity, low thermal conductivity
+
+   CORRECT: High electrical conductivity, low thermal conductivity
+
+
+10) Which of the following is not a function of the dielectric in EDM?
+
+    Options:
+    - Flush particles
+    - Cool the section
+    - Maintain voltage
+    - Provide insulation
+
+    CORRECT: Cool the section
+
+
+================================================================================
+WEEK 10
+================================================================================
+
+1) According to the VIA classification, the virtue of 'humanity' includes which of the following character strengths?
+
+   Options:
+   - Fairness
+   - Kindness
+   - Creativity
+   - Modesty
+
+   CORRECT: Kindness
+
+
+2) Peterson and Seligman (2004) identified ........ character strengths and grouped them into ........ virtues:
+
+   Options:
+   - 24, 6
+   - 25, 6
+   - 24, 5
+   - 23, 6
+
+   CORRECT: 24, 6
+
+
+3) The Gallup's Strengths Finder came up with ........ most prevalent talents/strengths displayed specifically in the work setting.
+
+   Options:
+   - 35
+   - 34
+   - 30
+   - 24
+
+   CORRECT: 34
+
+
+4) According to Gallup's Strengths Finder, which of the following creates a strength?
+
+   Options:
+   - Talent
+   - Skills
+   - Knowledge
+   - Skills and knowledge combined with talent
+
+   CORRECT: Skills and knowledge combined with talent
+
+
+5) Which of the following is associated with the following statement 'Top achievers fully recognize their talents and build on them to develop strengths'?
+
+   Options:
+   - Value in action classification of character strengths
+   - Gallup's Strengths Finder
+   - Seligman's PERMA model
+   - Flow
+
+   CORRECT: Gallup's Strengths Finder
+
+
+6) Which of the following is NOT a dimension of Gallup's Strengths Finder classification?
+
+   Options:
+   - Executing
+   - Influencing
+   - Relationship building
+   - Creative thinking
+
+   CORRECT: Creative thinking
+
+
+7) Which of the following is NOT a way to identify talents?
+
+   Options:
+   - Spontaneous reactions
+   - Yearnings
+   - Slow learning
+   - Satisfaction and enjoyment of activities
+
+   CORRECT: Slow learning
+
+
+8) Autotelic Personality is associated with:
+
+   Options:
+   - Internal locus of control
+   - Resilience
+   - Flow
+   - Psychological hardiness
+
+   CORRECT: Flow
+
+
+9) What is the nature of activities that lead to flow experience?
+
+   Options:
+   - They are extrinsically rewarding
+   - They are not challenging enough
+   - They are intrinsically rewarding
+   - They are boring
+
+   CORRECT: They are intrinsically rewarding
+
+
+10) What type of activities are less likely to be associated with flow experience?
+
+    Options:
+    - Sports and dancing
+    - Creative arts and hobbies
+    - Housework and watching TV
+    - Socializing and studying
+
+    CORRECT: Housework and watching TV
+
+
+================================================================================
+WEEK 11
+================================================================================
+
+1) "What a man can be, he must be" is associated with which of the following:
+
+   Options:
+   - Esteem need
+   - Love and belongingness need
+   - Physiological need
+   - Self-actualization need
+
+   CORRECT: Self-actualization need
+
+
+2) What is the main difference between self-actualization needs and other needs in Maslow's hierarchy?
+
+   Options:
+   - Self-actualization needs are growth needs while other needs are deficit needs
+   - Self-actualization needs are deficit needs while other needs are growth needs
+   - Self-actualization needs are related to basic survival while other needs are related to personal growth
+   - Self-actualization needs are related to social belongingness while other needs are related to power and control
+
+   CORRECT: Self-actualization needs are growth needs while other needs are deficit needs
+
+
+3) According to Carl Rogers, which of the following is an obstacle in achieving our 'real-self'?
+
+   Options:
+   - Lack of desire
+   - Stuck in fulfilling lower needs
+   - Societal conditions of worth
+   - None of these
+
+   CORRECT: Societal conditions of worth
+
+
+4) According to Carl Rogers, inconsistency between our real self and ideal self creates:
+
+   Options:
+   - Psychosis
+   - Neurosis
+   - Organismic valuing
+   - None of these
+
+   CORRECT: Neurosis
+
+
+5) Which of the following theory explains human motivation based on the basic psychological need fulfilment?
+
+   Options:
+   - Organismic valuing theory
+   - Functional descriptive model
+   - PERMA model
+   - Self-determination theory
+
+   CORRECT: Self-determination theory
+
+
+6) A student completes an assignment independently, but only because of fear of shaming self or because of guilt about the consequences of not completing the assignment. This is an example of............. type of extrinsic motivation:
+
+   Options:
+   - External regulation
+   - Introjection
+   - Identification
+   - Integration
+
+   CORRECT: Introjection
+
+
+7) .......... theory assumes that an extrinsic reward decreases intrinsic motivation when a person attributes his/her performance to the extrinsic reward.
+
+   Options:
+   - Cognitive evaluation theory
+   - Over-justification theory
+   - Self-determination theory
+   - Theory of actualizing tendency
+
+   CORRECT: Cognitive evaluation theory
+
+
+8) .......... and .......... are more autonomous and internalized forms of extrinsic motivation:
+
+   Options:
+   - Identification and integration
+   - External and introjection
+   - Identification and introjection
+   - External and integration
+
+   CORRECT: Identification and integration
+
+
+9) How can the need for relatedness be fulfilled in a work environment?
+
+   Options:
+   - By providing challenging tasks
+   - By encouraging competition among employees
+   - By devoting time for team-building activities
+   - By providing financial incentives
+
+   CORRECT: By devoting time for team-building activities
+
+
+10) The term "self-actualization" was first coined by:
+
+    Options:
+    - Maslow
+    - Rogers
+    - Kurt Goldstein
+    - Martin Seligman
+
+    CORRECT: Kurt Goldstein
+
+
+================================================================================
+WEEK 12
+================================================================================
+
+1) Life has meaning under all circumstances, even the most miserable ones. This statement is associated with:
+
+   Options:
+   - Cognitive therapy
+   - Mindfulness based therapy
+   - Behavioral therapy
+   - Logotherapy
+
+   CORRECT: Logotherapy
+
+
+2) Mattering is connected to which of the following?
+
+   Options:
+   - Coherence
+   - Purpose
+   - Significance
+   - All of these
+
+   CORRECT: All of these
+
+
+3) Which of the following is a motivational component of meaning in life?
+
+   Options:
+   - Coherence
+   - Purpose
+   - Significance
+   - Mattering
+
+   CORRECT: Purpose
+
+
+4) Which of the following is associated with George T. Doran?
+
+   Options:
+   - Intrinsic goals
+   - Extrinsic goals
+   - SMART goals
+   - Self-actualization
+
+   CORRECT: SMART goals
+
+
+5) Coherence dimension of meaning in life is value neutral and:
+
+   Options:
+   - Descriptive
+   - Normative
+   - Evaluative
+   - None of these
+
+   CORRECT: Descriptive
+
+
+6) According to research, which of the following dimensions of meaning in life may diminish death anxiety?
+
+   Options:
+   - Coherence
+   - Purpose
+   - Significance
+   - None of these
+
+   CORRECT: Significance
+
+
+7) What did Frankl believe is the last of human freedoms, even in the most challenging circumstances?
+
+   Options:
+   - Freedom to pursue material success
+   - Freedom to avoid suffering
+   - Freedom to achieve external goals
+   - Freedom to choose one's attitude in any given circumstance
+
+   CORRECT: Freedom to choose one's attitude in any given circumstance
+
+
+8) What is one way Frankl suggested individuals can discover meaning in life?
+
+   Options:
+   - Creating a work or doing a deed
+   - Avoiding all forms of suffering
+   - Pursuing external achievements only
+   - Experiencing natural beauty without any action
+
+   CORRECT: Creating a work or doing a deed
+
+
+9) Why might satisfaction from extrinsic goals not last?
+
+   Options:
+   - Extrinsic goals are inherently unsatisfying
+   - People quickly adapt to extrinsic goals
+   - Satisfaction from extrinsic goals is dependent on external factors
+   - Extrinsic goals are not valued by one's culture
+
+   CORRECT: People quickly adapt to extrinsic goals
+
+
+10) ..................... are strongly shaped by cultural and societal beliefs and norms.
+
+    Options:
+    - Intrinsic goals
+    - Extrinsic goals
+    - Both intrinsic and extrinsic goals
+    - None of these
+
+    CORRECT: Extrinsic goals
+
+
+================================================================================
+END OF DOCUMENT
+================================================================================

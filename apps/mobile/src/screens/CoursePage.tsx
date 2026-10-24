@@ -32,7 +32,10 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
   }, [courseId]);
 
   const filteredQuestions = useMemo(() => {
-    if (quizType === 'pyq') return filterQuestions(questions, { sourceType: 'pyq' });
+    if (quizType === 'pyq') {
+      if (selectedWeek !== null) return filterQuestions(questions, { sourceType: 'pyq', week: selectedWeek });
+      return filterQuestions(questions, { sourceType: 'pyq' });
+    }
     if (quizType === 'weekly_quiz' && selectedWeek !== null) return filterQuestions(questions, { sourceType: 'weekly_quiz', week: selectedWeek });
     return filterQuestions(questions, { sourceType: 'weekly_quiz' });
   }, [questions, quizType, selectedWeek]);
@@ -40,7 +43,7 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
   const handleStart = () => {
     if (!course || filteredQuestions.length === 0) return;
     const config: QuizConfig = {
-      title: quizType === 'pyq' ? 'PYQ Practice' : `Weekly Quiz${selectedWeek ? ` — Week ${selectedWeek}` : ''}`,
+      title: `${quizType === 'pyq' ? 'PYQ Practice' : 'Weekly Quiz'}${selectedWeek ? ` — Week ${selectedWeek}` : ''}`,
       courseId: course.id,
       courseName: course.name,
       fastMode,
@@ -67,16 +70,16 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
       <View style={styles.card}>
         <Text style={styles.sectionTitle}>Practice Type</Text>
         <View style={styles.row}>
-          <TouchableOpacity style={[styles.typeBtn, quizType === 'weekly_quiz' && styles.typeBtnActive]} onPress={() => setQuizType('weekly_quiz')}>
+          <TouchableOpacity style={[styles.typeBtn, quizType === 'weekly_quiz' && styles.typeBtnActive]} onPress={() => { setQuizType('weekly_quiz'); setSelectedWeek(null); }}>
             <Text style={[styles.typeText, quizType === 'weekly_quiz' && styles.typeTextActive]}>Weekly Quiz</Text>
           </TouchableOpacity>
-          <TouchableOpacity style={[styles.typeBtn, quizType === 'pyq' && styles.typeBtnActive]} onPress={() => setQuizType('pyq')}>
+          <TouchableOpacity style={[styles.typeBtn, quizType === 'pyq' && styles.typeBtnActive]} onPress={() => { setQuizType('pyq'); setSelectedWeek(null); }}>
             <Text style={[styles.typeText, quizType === 'pyq' && styles.typeTextActive]}>PYQs</Text>
           </TouchableOpacity>
         </View>
       </View>
 
-      {quizType === 'weekly_quiz' && course.weeks.length > 0 && (
+      {course.weeks.length > 0 && (
         <View style={styles.card}>
           <Text style={styles.sectionTitle}>Select Week</Text>
           <View style={styles.weeksGrid}>

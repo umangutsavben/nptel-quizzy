@@ -51,7 +51,7 @@ type QuizAction =
 function quizReducer(state: QuizState, action: QuizAction): QuizState {
   switch (action.type) {
     case 'START_QUIZ': {
-      const session = createQuizSession(action.questions, action.config);
+      const session = createQuizSession(action.questions, action.config, { jumble: true });
       return { session, result: null, status: 'active' };
     }
     case 'SELECT_ANSWER': {

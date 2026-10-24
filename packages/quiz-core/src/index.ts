@@ -116,16 +116,54 @@ function generateSessionId(): string {
 }
 
 /**
+ * Fisher-Yates array shuffle (returns a new shuffled array).
+ */
+export function shuffleArray<T>(items: readonly T[]): T[] {
+  const result = [...items];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const temp = result[i];
+    result[i] = result[j];
+    result[j] = temp;
+  }
+  return result;
+}
+
+/**
+ * Jumble / shuffle options within a question (returns a new Question object).
+ */
+export function jumbleQuestionOptions(question: Question): Question {
+  if (!question.options || question.options.length < 2) {
+    return { ...question };
+  }
+  return {
+    ...question,
+    options: shuffleArray(question.options),
+  };
+}
+
+/**
+ * Jumble / shuffle both question order and the options within each question.
+ */
+export function jumbleQuestions(questions: Question[]): Question[] {
+  const shuffled = shuffleArray(questions);
+  return shuffled.map(q => jumbleQuestionOptions(q));
+}
+
+/**
  * Create a new quiz session from questions and config.
+ * Optionally jumbles / shuffles question and option order.
  */
 export function createQuizSession(
   questions: Question[],
-  config: QuizConfig
+  config: QuizConfig,
+  sessionOptions?: { jumble?: boolean }
 ): QuizSession {
+  const preparedQuestions = sessionOptions?.jumble ? jumbleQuestions(questions) : questions;
   const now = Date.now();
   const questionStates = new Map<string, QuestionState>();
 
-  for (const q of questions) {
+  for (const q of preparedQuestions) {
     questionStates.set(q.id, {
       questionId: q.id,
       selectedOption: null,
@@ -137,7 +175,7 @@ export function createQuizSession(
   return {
     sessionId: generateSessionId(),
     config,
-    questions,
+    questions: preparedQuestions,
     questionStates,
     currentIndex: 0,
     startedAt: now,

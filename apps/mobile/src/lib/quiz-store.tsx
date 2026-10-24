@@ -30,7 +30,7 @@ type QuizAction =
 
 function quizReducer(state: QuizState, action: QuizAction): QuizState {
   switch (action.type) {
-    case 'START_QUIZ': return { session: createQuizSession(action.questions, action.config), result: null, status: 'active' };
+    case 'START_QUIZ': return { session: createQuizSession(action.questions, action.config, { jumble: true }), result: null, status: 'active' };
     case 'SELECT_ANSWER': return state.session && state.status === 'active' ? { ...state, session: selectAnswer(state.session, action.questionId, action.optionId) } : state;
     case 'CLEAR_ANSWER': return state.session && state.status === 'active' ? { ...state, session: clearAnswer(state.session, action.questionId) } : state;
     case 'TOGGLE_MARK': return state.session && state.status === 'active' ? { ...state, session: toggleMarkForReview(state.session, action.questionId) } : state;

@@ -54,6 +54,9 @@ export default function CoursePage() {
   // Filter questions based on current selection
   const filteredQuestions = useMemo(() => {
     if (quizType === 'pyq') {
+      if (selectedWeek !== null) {
+        return filterQuestions(questions, { sourceType: 'pyq' as SourceType, week: selectedWeek });
+      }
       return filterQuestions(questions, { sourceType: 'pyq' as SourceType });
     }
     if (quizType === 'weekly_quiz' && selectedWeek !== null) {
@@ -77,7 +80,7 @@ export default function CoursePage() {
   const handleStart = () => {
     if (filteredQuestions.length === 0) return;
 
-    const weekTitle = quizType === 'weekly_quiz' && selectedWeek !== null
+    const weekTitle = selectedWeek !== null
       ? ` — Week ${selectedWeek}`
       : '';
     const typeLabel = quizType === 'pyq' ? 'PYQ Practice' : 'Weekly Quiz';
@@ -153,7 +156,10 @@ export default function CoursePage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <QuizTypeCard
             selected={quizType === 'weekly_quiz'}
-            onClick={() => setQuizType('weekly_quiz')}
+            onClick={() => {
+              setQuizType('weekly_quiz');
+              setSelectedWeek(null);
+            }}
             icon="📝"
             title="Practice Weekly Quiz"
             subtitle={weeklyCount > 0 ? `${weeklyCount} questions across ${course.weeks.length} weeks` : 'No weekly quiz questions available'}
@@ -161,7 +167,10 @@ export default function CoursePage() {
           />
           <QuizTypeCard
             selected={quizType === 'pyq'}
-            onClick={() => setQuizType('pyq')}
+            onClick={() => {
+              setQuizType('pyq');
+              setSelectedWeek(null);
+            }}
             icon="📋"
             title="Practice PYQs"
             subtitle={pyqCount > 0 ? `${pyqCount} previous year questions` : 'No PYQ questions available'}
@@ -170,10 +179,15 @@ export default function CoursePage() {
         </div>
       </div>
 
-      {/* Week Selection (for weekly quiz) */}
-      {quizType === 'weekly_quiz' && course.weeks.length > 0 && (
+      {/* Week Selection */}
+      {course.weeks.length > 0 && (
         <div className="glass-card p-6 mb-6 animate-fade-in">
-          <h2 className="text-lg font-semibold text-surface-100 mb-4">Select Week</h2>
+          <div className="flex items-center justify-between mb-4">
+            <h2 className="text-lg font-semibold text-surface-100">Select Week</h2>
+            <span className="text-xs text-surface-400">
+              {quizType === 'pyq' ? 'Previous year questions by week' : 'Assignment questions by week'}
+            </span>
+          </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             <button
               onClick={() => setSelectedWeek(null)}
@@ -183,22 +197,33 @@ export default function CoursePage() {
                   : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50'
               }`}
             >
-              All Weeks
+              <div>All Weeks</div>
+              <div className="text-xs text-surface-500 mt-0.5">
+                {quizType === 'pyq' ? `${pyqCount}q` : `${weeklyCount}q`}
+              </div>
             </button>
-            {course.weeks.map(w => (
-              <button
-                key={w.week}
-                onClick={() => setSelectedWeek(w.week)}
-                className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border ${
-                  selectedWeek === w.week
-                    ? 'bg-brand-600/20 border-brand-500/50 text-brand-300'
-                    : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50'
-                }`}
-              >
-                <div>Week {w.week}</div>
-                <div className="text-xs text-surface-500 mt-0.5">{w.questionCount}q</div>
-              </button>
-            ))}
+            {course.weeks.map(w => {
+              const weekCount = questions.filter(
+                q => q.sourceType === quizType && q.week === w.week
+              ).length;
+              return (
+                <button
+                  key={w.week}
+                  onClick={() => setSelectedWeek(w.week)}
+                  disabled={weekCount === 0}
+                  className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border ${
+                    selectedWeek === w.week
+                      ? 'bg-brand-600/20 border-brand-500/50 text-brand-300'
+                      : weekCount === 0
+                      ? 'bg-surface-900/40 border-surface-800 text-surface-600 cursor-not-allowed opacity-50'
+                      : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50'
+                  }`}
+                >
+                  <div>Week {w.week}</div>
+                  <div className="text-xs text-surface-500 mt-0.5">{weekCount}q</div>
+                </button>
+              );
+            })}
           </div>
         </div>
       )}

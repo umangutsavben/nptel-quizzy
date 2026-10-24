@@ -158,6 +158,11 @@ export default function QuizPage() {
           <div className="glass-card p-5 sm:p-6 mb-4" key={question.id}>
             {/* Tags */}
             <div className="flex flex-wrap gap-2 mb-3">
+              {question.sourceType === 'pyq' ? (
+                <span className="badge-accent text-xs">PYQ</span>
+              ) : question.sourceType === 'weekly_quiz' ? (
+                <span className="badge-brand text-xs">Weekly Quiz</span>
+              ) : null}
               {question.week && (
                 <span className="badge-surface text-xs">Week {question.week}</span>
               )}

@@ -231,7 +231,12 @@ export default function ResultPage() {
               )}
 
               {/* Metadata */}
-              <div className="flex flex-wrap gap-2 mt-3">
+              <div className="flex flex-wrap items-center gap-2 mt-3">
+                {qr.question.sourceType === 'pyq' ? (
+                  <span className="badge-accent text-[10px] py-0.5 px-1.5">PYQ</span>
+                ) : qr.question.sourceType === 'weekly_quiz' ? (
+                  <span className="badge-brand text-[10px] py-0.5 px-1.5">Weekly Quiz</span>
+                ) : null}
                 {qr.question.week && <span className="text-xs text-surface-500">Week {qr.question.week}</span>}
                 {qr.question.topic && <span className="text-xs text-surface-500">• {qr.question.topic}</span>}
               </div>

@@ -24,6 +24,9 @@ import {
   filterQuestions,
   getIncorrectQuestions,
   formatTime,
+  shuffleArray,
+  jumbleQuestionOptions,
+  jumbleQuestions,
   type QuizConfig,
 } from '../index.js';
 import type { Question, ScoringRules } from '@nptel-quiz/question-schema';
@@ -493,3 +496,63 @@ describe('formatTime', () => {
     expect(formatTime(0)).toBe('0s');
   });
 });
+
+describe('Jumble / Shuffle Functions', () => {
+  it('shuffleArray should preserve all elements and length', () => {
+    const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    const shuffled = shuffleArray(arr);
+    expect(shuffled).toHaveLength(10);
+    expect([...shuffled].sort((a, b) => a - b)).toEqual(arr);
+  });
+
+  it('shuffleArray should not mutate original array', () => {
+    const arr = [1, 2, 3, 4, 5];
+    const copy = [...arr];
+    shuffleArray(arr);
+    expect(arr).toEqual(copy);
+  });
+
+  it('jumbleQuestionOptions should shuffle options while preserving question data', () => {
+    const q = makeQuestion('Q1', 'c');
+    const jumbled = jumbleQuestionOptions(q);
+    expect(jumbled.id).toBe('Q1');
+    expect(jumbled.correctOption).toBe('c');
+    expect(jumbled.options).toHaveLength(4);
+    const optionTexts = jumbled.options.map(o => o.text).sort();
+    expect(optionTexts).toEqual(['Option A', 'Option B', 'Option C', 'Option D']);
+  });
+
+  it('jumbleQuestionOptions should handle questions with fewer than 2 options', () => {
+    const q = { ...makeQuestion('Q1'), options: [{ id: 'a', text: 'Only' }] };
+    const jumbled = jumbleQuestionOptions(q);
+    expect(jumbled.options).toHaveLength(1);
+  });
+
+  it('jumbleQuestions should shuffle both questions and options', () => {
+    const qs = [
+      makeQuestion('Q1'),
+      makeQuestion('Q2'),
+      makeQuestion('Q3'),
+      makeQuestion('Q4'),
+      makeQuestion('Q5'),
+    ];
+    const jumbled = jumbleQuestions(qs);
+    expect(jumbled).toHaveLength(5);
+    const ids = jumbled.map(q => q.id).sort();
+    expect(ids).toEqual(['Q1', 'Q2', 'Q3', 'Q4', 'Q5']);
+    // Each question's options should be intact
+    for (const q of jumbled) {
+      expect(q.options).toHaveLength(4);
+    }
+  });
+
+  it('createQuizSession with jumble: true should initialize question states for jumbled questions', () => {
+    const qs = [makeQuestion('Q1'), makeQuestion('Q2'), makeQuestion('Q3')];
+    const session = createQuizSession(qs, makeConfig(), { jumble: true });
+    expect(session.questions).toHaveLength(3);
+    for (const q of session.questions) {
+      expect(session.questionStates.has(q.id)).toBe(true);
+    }
+  });
+});
+
