@@ -34,6 +34,9 @@ export default function Layout() {
       {/* Footer */}
       <footer className="border-t border-surface-800/60 py-8 mt-auto">
         <div className="max-w-6xl mx-auto px-4 text-center">
+          <p className="text-surface-300 text-sm font-medium mb-1">
+            Built by Umang, Meet &amp; Prince
+          </p>
           <p className="text-surface-500 text-sm">
             NPTEL Quiz Prep — Free practice platform for NPTEL students
           </p>
