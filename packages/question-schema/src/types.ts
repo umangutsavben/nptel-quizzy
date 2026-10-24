@@ -87,6 +87,7 @@ export interface QuestionBankManifest {
 export interface QuestionFilter {
   courseId?: string;
   week?: number;
+  weeks?: number[];
   topic?: string;
   sourceType?: SourceType;
   difficulty?: Difficulty;

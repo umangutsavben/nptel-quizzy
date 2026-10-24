@@ -26,9 +26,19 @@ export default function CoursePage() {
 
   // Quiz configuration state
   const [quizType, setQuizType] = useState<QuizType>('weekly_quiz');
-  const [selectedWeek, setSelectedWeek] = useState<number | null>(null);
+  const [selectedWeeks, setSelectedWeeks] = useState<number[]>([]);
   const [fastMode, setFastMode] = useState(false);
   const [resultOnSpot, setResultOnSpot] = useState(false);
+
+  const toggleWeek = (weekNum: number) => {
+    setSelectedWeeks(prev => {
+      if (prev.includes(weekNum)) {
+        return prev.filter(w => w !== weekNum);
+      } else {
+        return [...prev, weekNum].sort((a, b) => a - b);
+      }
+    });
+  };
 
   useEffect(() => {
     if (!courseId) return;
@@ -42,10 +52,6 @@ export default function CoursePage() {
         setCourse(c);
         const qs = await fetchCourseQuestions(c);
         setQuestions(qs);
-        // Default to first available week
-        if (c.weeks.length > 0) {
-          setSelectedWeek(c.weeks[0].week);
-        }
       })
       .catch(e => setError(e.message))
       .finally(() => setLoading(false));
@@ -54,19 +60,19 @@ export default function CoursePage() {
   // Filter questions based on current selection
   const filteredQuestions = useMemo(() => {
     if (quizType === 'pyq') {
-      if (selectedWeek !== null) {
-        return filterQuestions(questions, { sourceType: 'pyq' as SourceType, week: selectedWeek });
+      if (selectedWeeks.length > 0) {
+        return filterQuestions(questions, { sourceType: 'pyq' as SourceType, weeks: selectedWeeks });
       }
       return filterQuestions(questions, { sourceType: 'pyq' as SourceType });
     }
-    if (quizType === 'weekly_quiz' && selectedWeek !== null) {
-      return filterQuestions(questions, { sourceType: 'weekly_quiz' as SourceType, week: selectedWeek });
-    }
     if (quizType === 'weekly_quiz') {
+      if (selectedWeeks.length > 0) {
+        return filterQuestions(questions, { sourceType: 'weekly_quiz' as SourceType, weeks: selectedWeeks });
+      }
       return filterQuestions(questions, { sourceType: 'weekly_quiz' as SourceType });
     }
     return [];
-  }, [questions, quizType, selectedWeek]);
+  }, [questions, quizType, selectedWeeks]);
 
   const pyqCount = useMemo(
     () => questions.filter(q => q.sourceType === 'pyq').length,
@@ -80,9 +86,12 @@ export default function CoursePage() {
   const handleStart = () => {
     if (filteredQuestions.length === 0) return;
 
-    const weekTitle = selectedWeek !== null
-      ? ` — Week ${selectedWeek}`
-      : '';
+    let weekTitle = '';
+    if (selectedWeeks.length === 1) {
+      weekTitle = ` — Week ${selectedWeeks[0]}`;
+    } else if (selectedWeeks.length > 1) {
+      weekTitle = ` — Weeks ${selectedWeeks.join(', ')}`;
+    }
     const typeLabel = quizType === 'pyq' ? 'PYQ Practice' : 'Weekly Quiz';
 
     const config: QuizConfig = {
@@ -158,7 +167,7 @@ export default function CoursePage() {
             selected={quizType === 'weekly_quiz'}
             onClick={() => {
               setQuizType('weekly_quiz');
-              setSelectedWeek(null);
+              setSelectedWeeks([]);
             }}
             icon="📝"
             title="Practice Weekly Quiz"
@@ -169,7 +178,7 @@ export default function CoursePage() {
             selected={quizType === 'pyq'}
             onClick={() => {
               setQuizType('pyq');
-              setSelectedWeek(null);
+              setSelectedWeeks([]);
             }}
             icon="📋"
             title="Practice PYQs"
@@ -182,22 +191,50 @@ export default function CoursePage() {
       {/* Week Selection */}
       {course.weeks.length > 0 && (
         <div className="glass-card p-6 mb-6 animate-fade-in">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-lg font-semibold text-surface-100">Select Week</h2>
-            <span className="text-xs text-surface-400">
-              {quizType === 'pyq' ? 'Previous year questions by week' : 'Assignment questions by week'}
-            </span>
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-4">
+            <div>
+              <div className="flex items-center gap-2">
+                <h2 className="text-lg font-semibold text-surface-100">Select Weeks</h2>
+                <span className="badge-surface text-xs">Multi-select</span>
+              </div>
+              <p className="text-xs text-surface-400 mt-1">
+                Select one or more weeks to combine (e.g. Weeks 2, 3, 5, 7) or practice All Weeks
+              </p>
+            </div>
+            {selectedWeeks.length > 0 && (
+              <button
+                onClick={() => setSelectedWeeks([])}
+                className="text-xs text-brand-400 hover:text-brand-300 underline font-medium self-start sm:self-auto cursor-pointer"
+              >
+                Reset to All Weeks
+              </button>
+            )}
           </div>
+
+          {selectedWeeks.length > 0 && (
+            <div className="mb-3 px-3.5 py-2 rounded-xl bg-brand-600/15 border border-brand-500/30 flex flex-wrap items-center justify-between gap-2 animate-fade-in">
+              <span className="text-xs font-medium text-brand-200">
+                Selected: {selectedWeeks.length === 1 ? `Week ${selectedWeeks[0]}` : `Weeks ${selectedWeeks.join(', ')}`}
+              </span>
+              <span className="text-xs font-semibold text-brand-300">
+                {filteredQuestions.length} questions ready
+              </span>
+            </div>
+          )}
+
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             <button
-              onClick={() => setSelectedWeek(null)}
-              className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border ${
-                selectedWeek === null
-                  ? 'bg-brand-600/20 border-brand-500/50 text-brand-300'
-                  : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50'
+              onClick={() => setSelectedWeeks([])}
+              className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border cursor-pointer ${
+                selectedWeeks.length === 0
+                  ? 'bg-brand-600/20 border-brand-500/50 text-brand-300 shadow-sm'
+                  : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50 hover:bg-surface-700/50'
               }`}
             >
-              <div>All Weeks</div>
+              <div className="flex items-center justify-center gap-1.5">
+                {selectedWeeks.length === 0 && <span className="text-brand-400 font-bold">✓</span>}
+                <span>All Weeks</span>
+              </div>
               <div className="text-xs text-surface-500 mt-0.5">
                 {quizType === 'pyq' ? `${pyqCount}q` : `${weeklyCount}q`}
               </div>
@@ -206,20 +243,25 @@ export default function CoursePage() {
               const weekCount = questions.filter(
                 q => q.sourceType === quizType && q.week === w.week
               ).length;
+              const isSelected = selectedWeeks.includes(w.week);
+
               return (
                 <button
                   key={w.week}
-                  onClick={() => setSelectedWeek(w.week)}
+                  onClick={() => toggleWeek(w.week)}
                   disabled={weekCount === 0}
-                  className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border ${
-                    selectedWeek === w.week
-                      ? 'bg-brand-600/20 border-brand-500/50 text-brand-300'
+                  className={`px-4 py-3 rounded-xl text-sm font-medium transition-all border cursor-pointer ${
+                    isSelected
+                      ? 'bg-brand-600/25 border-brand-500 text-brand-200 ring-1 ring-brand-500/40 shadow-sm'
                       : weekCount === 0
                       ? 'bg-surface-900/40 border-surface-800 text-surface-600 cursor-not-allowed opacity-50'
-                      : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50'
+                      : 'bg-surface-800/60 border-surface-600/30 text-surface-300 hover:border-surface-500/50 hover:bg-surface-700/50'
                   }`}
                 >
-                  <div>Week {w.week}</div>
+                  <div className="flex items-center justify-center gap-1.5">
+                    {isSelected && <span className="text-brand-400 font-bold">✓</span>}
+                    <span>Week {w.week}</span>
+                  </div>
                   <div className="text-xs text-surface-500 mt-0.5">{weekCount}q</div>
                 </button>
               );

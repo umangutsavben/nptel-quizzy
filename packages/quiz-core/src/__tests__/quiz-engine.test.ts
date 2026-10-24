@@ -424,6 +424,18 @@ describe('filterQuestions', () => {
     expect(result).toHaveLength(2);
   });
 
+  it('should filter by multiple weeks (weeks array)', () => {
+    const resultAll = filterQuestions(mixed, { weeks: [1, 2] });
+    expect(resultAll).toHaveLength(3);
+
+    const resultOne = filterQuestions(mixed, { weeks: [2] });
+    expect(resultOne).toHaveLength(1);
+    expect(resultOne[0].id).toBe('Q2');
+
+    const resultNone = filterQuestions(mixed, { weeks: [3, 4] });
+    expect(resultNone).toHaveLength(0);
+  });
+
   it('should filter by sourceType', () => {
     const result = filterQuestions(mixed, { sourceType: 'pyq' });
     expect(result).toHaveLength(2);

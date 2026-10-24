@@ -436,6 +436,9 @@ export function filterQuestions(
   return questions.filter(q => {
     if (filter.courseId && q.courseId !== filter.courseId) return false;
     if (filter.week !== undefined && q.week !== filter.week) return false;
+    if (filter.weeks !== undefined && filter.weeks.length > 0) {
+      if (q.week === undefined || !filter.weeks.includes(q.week)) return false;
+    }
     if (filter.topic && q.topic !== filter.topic) return false;
     if (filter.sourceType && q.sourceType !== filter.sourceType) return false;
     if (filter.difficulty && q.difficulty !== filter.difficulty) return false;

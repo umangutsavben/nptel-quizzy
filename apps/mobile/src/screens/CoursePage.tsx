@@ -14,9 +14,19 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
   const [loading, setLoading] = useState(true);
 
   const [quizType, setQuizType] = useState<'weekly_quiz' | 'pyq'>('weekly_quiz');
-  const [selectedWeek, setSelectedWeek] = useState<number | null>(null);
+  const [selectedWeeks, setSelectedWeeks] = useState<number[]>([]);
   const [fastMode, setFastMode] = useState(false);
   const [resultOnSpot, setResultOnSpot] = useState(false);
+
+  const toggleWeek = (weekNum: number) => {
+    setSelectedWeeks(prev => {
+      if (prev.includes(weekNum)) {
+        return prev.filter(w => w !== weekNum);
+      } else {
+        return [...prev, weekNum].sort((a, b) => a - b);
+      }
+    });
+  };
 
   useEffect(() => {
     setLoading(true);
@@ -25,7 +35,6 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
         setCourse(c);
         const qs = await fetchCourseQuestions(c);
         setQuestions(qs);
-        if (c.weeks.length > 0) setSelectedWeek(c.weeks[0].week);
       }
       setLoading(false);
     });
@@ -33,17 +42,26 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
 
   const filteredQuestions = useMemo(() => {
     if (quizType === 'pyq') {
-      if (selectedWeek !== null) return filterQuestions(questions, { sourceType: 'pyq', week: selectedWeek });
+      if (selectedWeeks.length > 0) return filterQuestions(questions, { sourceType: 'pyq', weeks: selectedWeeks });
       return filterQuestions(questions, { sourceType: 'pyq' });
     }
-    if (quizType === 'weekly_quiz' && selectedWeek !== null) return filterQuestions(questions, { sourceType: 'weekly_quiz', week: selectedWeek });
-    return filterQuestions(questions, { sourceType: 'weekly_quiz' });
-  }, [questions, quizType, selectedWeek]);
+    if (quizType === 'weekly_quiz') {
+      if (selectedWeeks.length > 0) return filterQuestions(questions, { sourceType: 'weekly_quiz', weeks: selectedWeeks });
+      return filterQuestions(questions, { sourceType: 'weekly_quiz' });
+    }
+    return [];
+  }, [questions, quizType, selectedWeeks]);
 
   const handleStart = () => {
     if (!course || filteredQuestions.length === 0) return;
+    let weekTitle = '';
+    if (selectedWeeks.length === 1) {
+      weekTitle = ` — Week ${selectedWeeks[0]}`;
+    } else if (selectedWeeks.length > 1) {
+      weekTitle = ` — Weeks ${selectedWeeks.join(', ')}`;
+    }
     const config: QuizConfig = {
-      title: `${quizType === 'pyq' ? 'PYQ Practice' : 'Weekly Quiz'}${selectedWeek ? ` — Week ${selectedWeek}` : ''}`,
+      title: `${quizType === 'pyq' ? 'PYQ Practice' : 'Weekly Quiz'}${weekTitle}`,
       courseId: course.id,
       courseName: course.name,
       fastMode,
@@ -70,10 +88,10 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
       <View style={styles.card}>
         <Text style={styles.sectionTitle}>Practice Type</Text>
         <View style={styles.row}>
-          <TouchableOpacity style={[styles.typeBtn, quizType === 'weekly_quiz' && styles.typeBtnActive]} onPress={() => { setQuizType('weekly_quiz'); setSelectedWeek(null); }}>
+          <TouchableOpacity style={[styles.typeBtn, quizType === 'weekly_quiz' && styles.typeBtnActive]} onPress={() => { setQuizType('weekly_quiz'); setSelectedWeeks([]); }}>
             <Text style={[styles.typeText, quizType === 'weekly_quiz' && styles.typeTextActive]}>Weekly Quiz</Text>
           </TouchableOpacity>
-          <TouchableOpacity style={[styles.typeBtn, quizType === 'pyq' && styles.typeBtnActive]} onPress={() => { setQuizType('pyq'); setSelectedWeek(null); }}>
+          <TouchableOpacity style={[styles.typeBtn, quizType === 'pyq' && styles.typeBtnActive]} onPress={() => { setQuizType('pyq'); setSelectedWeeks([]); }}>
             <Text style={[styles.typeText, quizType === 'pyq' && styles.typeTextActive]}>PYQs</Text>
           </TouchableOpacity>
         </View>
@@ -81,16 +99,49 @@ export default function CoursePage({ onNavigate, courseId }: { onNavigate: (s: S
 
       {course.weeks.length > 0 && (
         <View style={styles.card}>
-          <Text style={styles.sectionTitle}>Select Week</Text>
-          <View style={styles.weeksGrid}>
-            <TouchableOpacity style={[styles.weekBtn, selectedWeek === null && styles.weekBtnActive]} onPress={() => setSelectedWeek(null)}>
-              <Text style={selectedWeek === null ? styles.weekTextActive : styles.weekText}>All</Text>
-            </TouchableOpacity>
-            {course.weeks.map(w => (
-              <TouchableOpacity key={w.week} style={[styles.weekBtn, selectedWeek === w.week && styles.weekBtnActive]} onPress={() => setSelectedWeek(w.week)}>
-                <Text style={selectedWeek === w.week ? styles.weekTextActive : styles.weekText}>W{w.week}</Text>
+          <View style={styles.headerRow}>
+            <View>
+              <Text style={styles.sectionTitle}>Select Weeks</Text>
+              <Text style={styles.sectionSubtitle}>Tap weeks to combine them in one quiz</Text>
+            </View>
+            {selectedWeeks.length > 0 && (
+              <TouchableOpacity onPress={() => setSelectedWeeks([])}>
+                <Text style={styles.resetText}>All Weeks</Text>
               </TouchableOpacity>
-            ))}
+            )}
+          </View>
+
+          {selectedWeeks.length > 0 && (
+            <View style={styles.selectedBanner}>
+              <Text style={styles.selectedBannerText}>
+                Selected: {selectedWeeks.length === 1 ? `Week ${selectedWeeks[0]}` : `Weeks ${selectedWeeks.join(', ')}`} ({filteredQuestions.length} qs)
+              </Text>
+            </View>
+          )}
+
+          <View style={styles.weeksGrid}>
+            <TouchableOpacity 
+              style={[styles.weekBtn, selectedWeeks.length === 0 && styles.weekBtnActive]} 
+              onPress={() => setSelectedWeeks([])}
+            >
+              <Text style={selectedWeeks.length === 0 ? styles.weekTextActive : styles.weekText}>
+                {selectedWeeks.length === 0 ? '✓ All' : 'All'}
+              </Text>
+            </TouchableOpacity>
+            {course.weeks.map(w => {
+              const isSelected = selectedWeeks.includes(w.week);
+              return (
+                <TouchableOpacity 
+                  key={w.week} 
+                  style={[styles.weekBtn, isSelected && styles.weekBtnActive]} 
+                  onPress={() => toggleWeek(w.week)}
+                >
+                  <Text style={isSelected ? styles.weekTextActive : styles.weekText}>
+                    {isSelected ? `✓ W${w.week}` : `W${w.week}`}
+                  </Text>
+                </TouchableOpacity>
+              );
+            })}
           </View>
         </View>
       )}
@@ -132,7 +183,12 @@ const styles = StyleSheet.create({
   backText: { color: '#9aa0a6', fontSize: 16 },
   title: { fontSize: 24, fontWeight: 'bold', color: '#f0f4ff', marginBottom: 24 },
   card: { backgroundColor: '#111827', padding: 20, borderRadius: 16, marginBottom: 16, borderWidth: 1, borderColor: '#374151' },
-  sectionTitle: { fontSize: 16, fontWeight: '600', color: '#e8eaed', marginBottom: 16 },
+  headerRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 14 },
+  sectionTitle: { fontSize: 16, fontWeight: '600', color: '#e8eaed' },
+  sectionSubtitle: { fontSize: 12, color: '#9aa0a6', marginTop: 2 },
+  resetText: { color: '#5c7cfa', fontSize: 13, fontWeight: '600' },
+  selectedBanner: { backgroundColor: 'rgba(92, 124, 250, 0.12)', paddingVertical: 8, paddingHorizontal: 12, borderRadius: 8, marginBottom: 14, borderWidth: 1, borderColor: 'rgba(92, 124, 250, 0.3)' },
+  selectedBannerText: { color: '#91a7ff', fontSize: 13, fontWeight: '600' },
   row: { flexDirection: 'row', gap: 12 },
   typeBtn: { flex: 1, padding: 12, borderRadius: 10, borderWidth: 1, borderColor: '#374151', alignItems: 'center' },
   typeBtnActive: { backgroundColor: 'rgba(92, 124, 250, 0.15)', borderColor: '#5c7cfa' },
